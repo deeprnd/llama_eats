@@ -1,0 +1,2928 @@
+{
+  "1ba160da-93e0-45c9-a6e0-61356bdf7612": [
+    {
+      "id": "d4259b25-ee06-4a92-a186-edd860f5fa3a",
+      "title": "Lamb Burger with Tzatziki",
+      "subtitle": "Mouthwatering Slow-cooked Lamb Burger with Tzatziki, elevated with lamb patty, served to perfection.",
+      "ingredients": [
+        "lamb patty",
+        "tzatziki sauce",
+        "cucumber",
+        "red onion",
+        "feta"
+      ],
+      "price": 8.96,
+      "category": "burger"
+    },
+    {
+      "id": "d74c6f76-fc99-4fa8-8c85-63d6254069a0",
+      "title": "Crab Rangoon Roll",
+      "subtitle": "Exquisite Baked Crab Rangoon Roll, highlighting the rich flavor of crab meat or imitation crab, cream cheese, green onions, rice, nori seaweed, served to perfection.",
+      "ingredients": [
+        "crab meat or imitation crab, cream cheese, green onions, rice, nori seaweed"
+      ],
+      "price": 7.95,
+      "category": "sushi"
+    }
+  ],
+  "00c193b7-8915-447b-b5ea-9bd118437ee9": [
+    {
+      "id": "9fc70899-2e70-4cb4-94f0-bf17521873d5",
+      "title": "Roast Cauliflower Cheese Pizza",
+      "subtitle": "Aromatic Roasted Roast Cauliflower Cheese Pizza, crafted with a touch of olive oil, served to perfection.",
+      "ingredients": [
+        "cauliflower",
+        "cheddar cheese",
+        "mozzarella cheese",
+        "olive oil",
+        "thyme"
+      ],
+      "price": 24.48,
+      "category": "pizza"
+    },
+    {
+      "id": "daefeba0-6fed-475a-a2ee-029160ca509a",
+      "title": "Spicy Jalape\u00f1o Burger",
+      "subtitle": "Delicious Steamed Spicy Jalape\u00f1o Burger, crafted with a touch of beef patty, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "jalape\u00f1os",
+        "pepper jack cheese",
+        "sriracha mayo",
+        "lettuce"
+      ],
+      "price": 11.71,
+      "category": "burger"
+    }
+  ],
+  "61668766-05f2-4bc2-b564-784da539a120": [
+    {
+      "id": "c72a03f8-fc94-46e2-9be9-8896680a4951",
+      "title": "Tiramisu",
+      "subtitle": "Hearty Saut\u00e9ed Tiramisu, highlighting the rich flavors of espresso and mascarpone cheese, served to perfection.",
+      "ingredients": [
+        "ladyfingers",
+        "mascarpone cheese",
+        "espresso",
+        "cocoa powder",
+        "sugar"
+      ],
+      "price": 19.95,
+      "category": "italian"
+    },
+    {
+      "id": "be30afc8-3adf-4d77-97c5-943c2e050f83",
+      "title": "Chipotle Chicken Burger",
+      "subtitle": "Indulgent Saut\u00e9ed Chipotle Chicken Burger, highlighting the rich flavors of lettuce and tomato, served to perfection.",
+      "ingredients": [
+        "grilled chicken breast",
+        "chipotle mayo",
+        "lettuce",
+        "tomato",
+        "onions"
+      ],
+      "price": 26.5,
+      "category": "burger"
+    },
+    {
+      "id": "8b6951c0-9079-489f-8c30-c23175986d66",
+      "title": "Buffalo Chicken Pizza",
+      "subtitle": "Mouthwatering Roasted Buffalo Chicken Pizza, crafted with a touch of buffalo sauce, served to perfection.",
+      "ingredients": [
+        "buffalo sauce",
+        "chicken",
+        "blue cheese dressing",
+        "celery",
+        "mozzarella cheese"
+      ],
+      "price": 7.2,
+      "category": "pizza"
+    }
+  ],
+  "7ff6eb30-741e-4cfd-8ed9-ce650e63ddf3": [
+    {
+      "id": "4ce473a6-1766-4b40-8505-0f81d8417f35",
+      "title": "Fried Egg Burger",
+      "subtitle": "Delicious Steamed Fried Egg Burger, highlighting the rich flavors of lettuce and cheddar cheese, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "fried egg",
+        "bacon",
+        "cheddar cheese",
+        "lettuce"
+      ],
+      "price": 10.86,
+      "category": "burger"
+    },
+    {
+      "id": "6c899c94-89ee-4028-9c46-9d0a01913634",
+      "title": "Salmon Sashimi",
+      "subtitle": "Hearty Saut\u00e9ed Salmon Sashimi, highlighting the rich flavor of salmon, wasabi, soy sauce, pickled ginger, sesame seeds, served to perfection.",
+      "ingredients": [
+        "salmon, wasabi, soy sauce, pickled ginger, sesame seeds"
+      ],
+      "price": 27.57,
+      "category": "sushi"
+    },
+    {
+      "id": "cf734f0b-4ad8-48b2-88a2-977d6eb26d5a",
+      "title": "Garlic Prawn Pizza",
+      "subtitle": "Delicious Slow-cooked Garlic Prawn Pizza, elevated with mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "prawns",
+        "garlic",
+        "mozzarella cheese",
+        "tomato sauce",
+        "parsley"
+      ],
+      "price": 24.49,
+      "category": "pizza"
+    }
+  ],
+  "b573860a-185f-4c53-ab5f-cfda32dfcc08": [
+    {
+      "id": "a269b534-ca99-420d-b6ea-3f4d57b20a49",
+      "title": "Fritto Misto",
+      "subtitle": "Hearty Fried Fritto Misto, elevated with calamari, served to perfection.",
+      "ingredients": [
+        "shrimp",
+        "calamari",
+        "zucchini",
+        "flour",
+        "lemon"
+      ],
+      "price": 9.75,
+      "category": "italian"
+    },
+    {
+      "id": "5a9ead35-b978-481e-ba05-f71018b4e355",
+      "title": "BBQ Meatlovers Pizza",
+      "subtitle": "Indulgent Grilled BBQ Meatlovers Pizza, highlighting the rich flavors of onions and pulled pork, served to perfection.",
+      "ingredients": [
+        "beef brisket",
+        "pulled pork",
+        "BBQ sauce",
+        "onions",
+        "cheddar cheese"
+      ],
+      "price": 20.9,
+      "category": "pizza"
+    }
+  ],
+  "28f01180-37a2-43b1-bd81-bbb68e8a8577": [
+    {
+      "id": "49ce15aa-4d64-4eaa-82f1-0d90a26a8dbf",
+      "title": "Cannoli",
+      "subtitle": "Hearty Baked Cannoli, featuring ricotta cheese, cannoli shells, served to perfection.",
+      "ingredients": [
+        "cannoli shells",
+        "ricotta cheese",
+        "powdered sugar",
+        "chocolate chips",
+        "vanilla extract"
+      ],
+      "price": 17.89,
+      "category": "italian"
+    }
+  ],
+  "25e22ba2-920a-4564-b4b4-52dade8a3b39": [
+    {
+      "id": "3bfa67ab-deb8-42f8-92f3-0bb64c9b269b",
+      "title": "Crispy Chickpea Burger",
+      "subtitle": "Indulgent Fried Crispy Chickpea Burger, elevated with spices, served to perfection.",
+      "ingredients": [
+        "chickpeas",
+        "spices",
+        "avocado",
+        "lettuce",
+        "tahini sauce"
+      ],
+      "price": 24.03,
+      "category": "burger"
+    },
+    {
+      "id": "90ec83b0-381c-4d0f-b913-cc3bd4b0b193",
+      "title": "Fritto Misto",
+      "subtitle": "Savory Fried Fritto Misto, highlighting the rich flavors of shrimp and lemon, served to perfection.",
+      "ingredients": [
+        "shrimp",
+        "calamari",
+        "zucchini",
+        "flour",
+        "lemon"
+      ],
+      "price": 25.81,
+      "category": "italian"
+    }
+  ],
+  "9d98695a-63e2-4814-bee6-10ccb224d5f5": [
+    {
+      "id": "7ffdb862-ca59-4468-84c1-e739a90959ce",
+      "title": "BBQ Meatlovers Pizza",
+      "subtitle": "Aromatic Fried BBQ Meatlovers Pizza, elevated with beef brisket, served to perfection.",
+      "ingredients": [
+        "beef brisket",
+        "pulled pork",
+        "BBQ sauce",
+        "onions",
+        "cheddar cheese"
+      ],
+      "price": 17.04,
+      "category": "pizza"
+    },
+    {
+      "id": "8f7aab95-c5f2-4369-a638-78d306b9f1c2",
+      "title": "Pineapple Teriyaki Burger",
+      "subtitle": "Exquisite Roasted Pineapple Teriyaki Burger, featuring pineapple slice, beef patty, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "teriyaki sauce",
+        "pineapple slice",
+        "lettuce",
+        "sesame seed bun"
+      ],
+      "price": 17.21,
+      "category": "burger"
+    },
+    {
+      "id": "37222c1f-43ce-487e-a77f-5a8fec28ad49",
+      "title": "Spicy Salmon Roll",
+      "subtitle": "Flavorful Slow-cooked Spicy Salmon Roll, featuring salmon,tobiko (fish roe),spicy mayo,cucumber,nori seaweed, served to perfection.",
+      "ingredients": [
+        "salmon,tobiko (fish roe),spicy mayo,cucumber,nori seaweed"
+      ],
+      "price": 13.23,
+      "category": "sushi"
+    }
+  ],
+  "5243bc14-1d2c-46c6-b981-a66533b996c4": [
+    {
+      "id": "e543d500-bb2a-4df2-89b1-1bd38a1246a2",
+      "title": "Spicy Jalape\u00f1o Burger",
+      "subtitle": "Delicious Saut\u00e9ed Spicy Jalape\u00f1o Burger, crafted with a touch of beef patty, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "jalape\u00f1os",
+        "pepper jack cheese",
+        "sriracha mayo",
+        "lettuce"
+      ],
+      "price": 28.53,
+      "category": "burger"
+    },
+    {
+      "id": "e713564a-23c5-4820-8e1c-e8005a8fffab",
+      "title": "Dragon Roll",
+      "subtitle": "Indulgent Steamed Dragon Roll, highlighting the rich flavor of eel, avocado, cucumber, rice, eel sauce, served to perfection.",
+      "ingredients": [
+        "eel, avocado, cucumber, rice, eel sauce"
+      ],
+      "price": 17.95,
+      "category": "sushi"
+    }
+  ],
+  "2af5edd6-fdcb-437b-8969-917d2ee204a8": [
+    {
+      "id": "b609e5c2-16c3-41b3-8f02-65df334a1bdd",
+      "title": "Mushroom Swiss Burger",
+      "subtitle": "Indulgent Roasted Mushroom Swiss Burger, featuring garlic aioli, swiss cheese, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "mushrooms",
+        "swiss cheese",
+        "garlic aioli",
+        "lettuce"
+      ],
+      "price": 13.98,
+      "category": "burger"
+    },
+    {
+      "id": "623ab8e2-f0b6-4a88-8a1b-d17b241392fb",
+      "title": "Deep Dish Sausage Pizza",
+      "subtitle": "Delicious Slow-cooked Deep Dish Sausage Pizza, featuring sausage, mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "sausage",
+        "mozzarella cheese",
+        "tomato sauce",
+        "bell peppers",
+        "onions"
+      ],
+      "price": 19.34,
+      "category": "pizza"
+    }
+  ],
+  "3ad1271c-b0d8-413a-bfbe-aab513f76d8c": [
+    {
+      "id": "5cd97ee8-1c1a-42d4-8448-4b90e19c6b93",
+      "title": "Mushroom Swiss Burger",
+      "subtitle": "Hearty Baked Mushroom Swiss Burger, highlighting the rich flavors of garlic aioli and mushrooms, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "mushrooms",
+        "swiss cheese",
+        "garlic aioli",
+        "lettuce"
+      ],
+      "price": 15.98,
+      "category": "burger"
+    },
+    {
+      "id": "b64177db-f292-499b-bd9c-2cd352f5c59a",
+      "title": "Saltimbocca alla Romana",
+      "subtitle": "Mouthwatering Fried Saltimbocca alla Romana, featuring butter, sage leaves, served to perfection.",
+      "ingredients": [
+        "veal cutlets",
+        "prosciutto",
+        "sage leaves",
+        "white wine",
+        "butter"
+      ],
+      "price": 9.73,
+      "category": "italian"
+    }
+  ],
+  "dbecb049-3501-438f-bedb-aa0bd6e31757": [
+    {
+      "id": "7ff0205c-9b5f-424c-9f5c-90c010c25e00",
+      "title": "Mushroom Swiss Burger",
+      "subtitle": "Delicious Saut\u00e9ed Mushroom Swiss Burger, crafted with a touch of garlic aioli, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "mushrooms",
+        "swiss cheese",
+        "garlic aioli",
+        "lettuce"
+      ],
+      "price": 28.15,
+      "category": "burger"
+    },
+    {
+      "id": "da1d7fac-68d2-4279-9b5a-f3958132b150",
+      "title": "Inari Sushi",
+      "subtitle": "Exquisite Grilled Inari Sushi, crafted with a touch of sweet tofu pouches (inari), sushi rice,sesame seeds,cucumber strips,nori strips, served to perfection.",
+      "ingredients": [
+        "sweet tofu pouches (inari), sushi rice,sesame seeds,cucumber strips,nori strips"
+      ],
+      "price": 22.63,
+      "category": "sushi"
+    },
+    {
+      "id": "35fed8c5-d29a-4db4-b1bc-afa98cdc8f6a",
+      "title": "BBQ Meatlovers Pizza",
+      "subtitle": "Indulgent Saut\u00e9ed BBQ Meatlovers Pizza, elevated with onions, served to perfection.",
+      "ingredients": [
+        "beef brisket",
+        "pulled pork",
+        "BBQ sauce",
+        "onions",
+        "cheddar cheese"
+      ],
+      "price": 10.15,
+      "category": "pizza"
+    }
+  ],
+  "0e0ff1a1-8fc1-4429-b546-1e78f43781fa": [
+    {
+      "id": "6fefa0c3-ff91-4b80-9941-b79db23eb58b",
+      "title": "Capricciosa",
+      "subtitle": "Flavorful Baked Capricciosa, crafted with a touch of mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "artichokes",
+        "ham",
+        "mushrooms",
+        "olives",
+        "mozzarella cheese"
+      ],
+      "price": 23.7,
+      "category": "pizza"
+    }
+  ],
+  "343c37c0-8029-4909-aaa1-a330914a71cc": [
+    {
+      "id": "a02d45df-d70d-43f4-8a25-8d60402597a6",
+      "title": "Spinach & Blue Cheese Pizza",
+      "subtitle": "Mouthwatering Fried Spinach & Blue Cheese Pizza, elevated with blue cheese, served to perfection.",
+      "ingredients": [
+        "spinach",
+        "blue cheese",
+        "mozzarella cheese",
+        "walnuts",
+        "olive oil"
+      ],
+      "price": 24.59,
+      "category": "pizza"
+    },
+    {
+      "id": "b7540513-1ae4-4f75-a8ab-4d69ece46cc5",
+      "title": "Crab Rangoon Roll",
+      "subtitle": "Hearty Slow-cooked Crab Rangoon Roll, crafted with a touch of crab meat or imitation crab, cream cheese, green onions, rice, nori seaweed, served to perfection.",
+      "ingredients": [
+        "crab meat or imitation crab, cream cheese, green onions, rice, nori seaweed"
+      ],
+      "price": 9.54,
+      "category": "sushi"
+    }
+  ],
+  "71898cc7-7ce1-4898-9f46-6b953d4cbf2e": [
+    {
+      "id": "33ff4b07-ff78-455e-b3d7-86656ec38f60",
+      "title": "Pepperoni Pizza",
+      "subtitle": "Flavorful Steamed Pepperoni Pizza, crafted with a touch of tomato sauce, served to perfection.",
+      "ingredients": [
+        "pepperoni",
+        "mozzarella cheese",
+        "tomato sauce",
+        "olive oil",
+        "oregano"
+      ],
+      "price": 14.18,
+      "category": "pizza"
+    },
+    {
+      "id": "de92fa41-0d58-4fd6-b5a8-00a09d35a310",
+      "title": "Spicy Salmon Roll",
+      "subtitle": "Flavorful Charred Spicy Salmon Roll, crafted with a touch of salmon,tobiko (fish roe),spicy mayo,cucumber,nori seaweed, served to perfection.",
+      "ingredients": [
+        "salmon,tobiko (fish roe),spicy mayo,cucumber,nori seaweed"
+      ],
+      "price": 18.78,
+      "category": "sushi"
+    }
+  ],
+  "a3a7f95b-3a76-4a42-8718-6f3e0b908cbc": [
+    {
+      "id": "51da15ad-37a2-455a-9b60-16d4124f3c3b",
+      "title": "Spinach & Blue Cheese Pizza",
+      "subtitle": "Delicious Fried Spinach & Blue Cheese Pizza, highlighting the rich flavors of spinach and mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "spinach",
+        "blue cheese",
+        "mozzarella cheese",
+        "walnuts",
+        "olive oil"
+      ],
+      "price": 9.39,
+      "category": "pizza"
+    },
+    {
+      "id": "b25c66c6-a40a-41b4-b764-487dd8fd71ae",
+      "title": "Polenta con Salsicce",
+      "subtitle": "Indulgent Fried Polenta con Salsicce, highlighting the rich flavors of Italian sausage and onions, served to perfection.",
+      "ingredients": [
+        "polenta",
+        "Italian sausage",
+        "onions",
+        "garlic",
+        "parmesan cheese"
+      ],
+      "price": 9.43,
+      "category": "italian"
+    }
+  ],
+  "d9895b8d-71b3-47b6-a864-88357fc57ee9": [
+    {
+      "id": "95b848cd-0793-44e4-8a98-55032b2ac386",
+      "title": "Cannoli",
+      "subtitle": "Flavorful Baked Cannoli, elevated with chocolate chips, served to perfection.",
+      "ingredients": [
+        "cannoli shells",
+        "ricotta cheese",
+        "powdered sugar",
+        "chocolate chips",
+        "vanilla extract"
+      ],
+      "price": 9.47,
+      "category": "italian"
+    },
+    {
+      "id": "1956f0fd-84e5-4b7c-9b36-276ccf26d8a3",
+      "title": "Turkey Burger",
+      "subtitle": "Aromatic Baked Turkey Burger, featuring chipotle mayo, tomato, served to perfection.",
+      "ingredients": [
+        "turkey patty",
+        "avocado",
+        "lettuce",
+        "tomato",
+        "chipotle mayo"
+      ],
+      "price": 21.42,
+      "category": "burger"
+    },
+    {
+      "id": "20eb1840-3c34-4dfe-9c6a-ff49fc6b6dd3",
+      "title": "Four Cheese Pizza",
+      "subtitle": "Mouthwatering Saut\u00e9ed Four Cheese Pizza, elevated with olive oil, served to perfection.",
+      "ingredients": [
+        "mozzarella cheese",
+        "gorgonzola cheese",
+        "parmesan cheese",
+        "ricotta cheese",
+        "olive oil"
+      ],
+      "price": 10.07,
+      "category": "pizza"
+    }
+  ],
+  "83610a9a-8cfa-4188-907f-94223c567acc": [
+    {
+      "id": "744dbdb8-ed0f-4357-8deb-a8a60369f923",
+      "title": "Fried Egg Burger",
+      "subtitle": "Aromatic Grilled Fried Egg Burger, crafted with a touch of cheddar cheese, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "fried egg",
+        "bacon",
+        "cheddar cheese",
+        "lettuce"
+      ],
+      "price": 13.94,
+      "category": "burger"
+    },
+    {
+      "id": "bcff7456-5f4b-44c5-9859-0bb33eab0c8e",
+      "title": "Spinach & Blue Cheese Pizza",
+      "subtitle": "Mouthwatering Roasted Spinach & Blue Cheese Pizza, featuring spinach, blue cheese, served to perfection.",
+      "ingredients": [
+        "spinach",
+        "blue cheese",
+        "mozzarella cheese",
+        "walnuts",
+        "olive oil"
+      ],
+      "price": 28.68,
+      "category": "pizza"
+    },
+    {
+      "id": "12823502-23ac-48d3-9c3e-9752f7293228",
+      "title": "Spicy Salmon Roll",
+      "subtitle": "Aromatic Roasted Spicy Salmon Roll, featuring salmon,tobiko (fish roe),spicy mayo,cucumber,nori seaweed, served to perfection.",
+      "ingredients": [
+        "salmon,tobiko (fish roe),spicy mayo,cucumber,nori seaweed"
+      ],
+      "price": 12.21,
+      "category": "sushi"
+    }
+  ],
+  "4a21dd64-2fce-4205-be21-cd9e00159b77": [
+    {
+      "id": "00d7e9a2-9a80-4506-9cfb-dd5d731c50d2",
+      "title": "Rainbow Pizza",
+      "subtitle": "Savory Grilled Rainbow Pizza, highlighting the rich flavors of onions and bell peppers of various colors, served to perfection.",
+      "ingredients": [
+        "bell peppers of various colors",
+        "mozzarella cheese",
+        "tomato sauce",
+        "onions",
+        "black olives"
+      ],
+      "price": 21.67,
+      "category": "pizza"
+    },
+    {
+      "id": "98395f7c-d57c-4b59-a0bc-14839285a5db",
+      "title": "Sushi Burrito",
+      "subtitle": "Indulgent Roasted Sushi Burrito, crafted with a touch of sushi rice, assorted fillings (fish/veggies), nori seaweed wrap, served to perfection.",
+      "ingredients": [
+        "sushi rice, assorted fillings (fish/veggies), nori seaweed wrap"
+      ],
+      "price": 28.3,
+      "category": "sushi"
+    },
+    {
+      "id": "df4130f4-3e05-4ac8-934a-0be55e754c77",
+      "title": "Polenta con Salsicce",
+      "subtitle": "Savory Baked Polenta con Salsicce, featuring parmesan cheese, polenta, served to perfection.",
+      "ingredients": [
+        "polenta",
+        "Italian sausage",
+        "onions",
+        "garlic",
+        "parmesan cheese"
+      ],
+      "price": 20.22,
+      "category": "italian"
+    }
+  ],
+  "3246ff6d-bf88-4de5-8a21-c70ee2e3e566": [
+    {
+      "id": "013e673a-f439-4114-bd94-980393809429",
+      "title": "Spicy Jalape\u00f1o Burger",
+      "subtitle": "Exquisite Fried Spicy Jalape\u00f1o Burger, featuring lettuce, beef patty, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "jalape\u00f1os",
+        "pepper jack cheese",
+        "sriracha mayo",
+        "lettuce"
+      ],
+      "price": 12.85,
+      "category": "burger"
+    },
+    {
+      "id": "dfb0a8f5-d52a-4d67-aa67-7a7f27ae56b6",
+      "title": "Rainbow Roll",
+      "subtitle": "Mouthwatering Charred Rainbow Roll, crafted with a touch of variety of fish (tuna, salmon), avocado, cucumber, rice, nori seaweed, served to perfection.",
+      "ingredients": [
+        "variety of fish (tuna, salmon), avocado, cucumber, rice, nori seaweed"
+      ],
+      "price": 27.92,
+      "category": "sushi"
+    }
+  ],
+  "9ba58403-9f83-44fe-9173-076db02b931e": [
+    {
+      "id": "d6d82d86-1112-4041-8ddc-0432646779b7",
+      "title": "Saltimbocca alla Romana",
+      "subtitle": "Exquisite Saut\u00e9ed Saltimbocca alla Romana, highlighting the rich flavors of prosciutto and butter, served to perfection.",
+      "ingredients": [
+        "veal cutlets",
+        "prosciutto",
+        "sage leaves",
+        "white wine",
+        "butter"
+      ],
+      "price": 11.8,
+      "category": "italian"
+    },
+    {
+      "id": "18d530bc-cec1-4ee9-892c-250e460576a2",
+      "title": "Greek Lamb Burger",
+      "subtitle": "Hearty Grilled Greek Lamb Burger, featuring tzatziki sauce, cucumber, served to perfection.",
+      "ingredients": [
+        "lamb patty",
+        "feta cheese",
+        "tzatziki sauce",
+        "red onion",
+        "cucumber"
+      ],
+      "price": 23.39,
+      "category": "burger"
+    },
+    {
+      "id": "aa2b7c80-e5b8-43d9-8884-74671c70c576",
+      "title": "Sausage & Kale Pizza",
+      "subtitle": "Hearty Charred Sausage & Kale Pizza, featuring tomato sauce, olive oil, served to perfection.",
+      "ingredients": [
+        "Italian sausage",
+        "kale leaves",
+        "mozzarella cheese",
+        "tomato sauce",
+        "olive oil"
+      ],
+      "price": 19.01,
+      "category": "pizza"
+    }
+  ],
+  "251531bb-6400-4819-bae6-ce98baf87089": [
+    {
+      "id": "92f43c06-88e1-4d07-abaf-b511b084db38",
+      "title": "Four Cheese Pizza",
+      "subtitle": "Mouthwatering Roasted Four Cheese Pizza, crafted with a touch of parmesan cheese, served to perfection.",
+      "ingredients": [
+        "mozzarella cheese",
+        "gorgonzola cheese",
+        "parmesan cheese",
+        "ricotta cheese",
+        "olive oil"
+      ],
+      "price": 22.87,
+      "category": "pizza"
+    }
+  ],
+  "8fba6675-c8fb-4086-ad35-7461343c1401": [
+    {
+      "id": "6a7f9c83-98ef-4734-b8e9-da3d72ec330d",
+      "title": "Spicy Jalape\u00f1o Burger",
+      "subtitle": "Exquisite Saut\u00e9ed Spicy Jalape\u00f1o Burger, elevated with sriracha mayo, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "jalape\u00f1os",
+        "pepper jack cheese",
+        "sriracha mayo",
+        "lettuce"
+      ],
+      "price": 7.17,
+      "category": "burger"
+    },
+    {
+      "id": "9676d887-cef1-4405-9333-ffd91a733546",
+      "title": "Arancini",
+      "subtitle": "Indulgent Baked Arancini, crafted with a touch of risotto rice, served to perfection.",
+      "ingredients": [
+        "risotto rice",
+        "mozzarella cheese",
+        "peas",
+        "breadcrumbs",
+        "marinara sauce"
+      ],
+      "price": 22.8,
+      "category": "italian"
+    },
+    {
+      "id": "5bd0ccaf-05e3-4301-b865-ab251fb53459",
+      "title": "Buffalo Chicken Pizza",
+      "subtitle": "Mouthwatering Grilled Buffalo Chicken Pizza, featuring chicken, celery, served to perfection.",
+      "ingredients": [
+        "buffalo sauce",
+        "chicken",
+        "blue cheese dressing",
+        "celery",
+        "mozzarella cheese"
+      ],
+      "price": 8.79,
+      "category": "pizza"
+    }
+  ],
+  "65d0ca6e-e91d-4c28-9555-134cf9303609": [
+    {
+      "id": "d2b811a0-65c0-476b-ab90-14053bd1604c",
+      "title": "Shrimp Tempura Roll",
+      "subtitle": "Hearty Roasted Shrimp Tempura Roll, elevated with shrimp tempura, avocado, rice, nori seaweed, spicy mayo, served to perfection.",
+      "ingredients": [
+        "shrimp tempura, avocado, rice, nori seaweed, spicy mayo"
+      ],
+      "price": 24.97,
+      "category": "sushi"
+    },
+    {
+      "id": "cee92020-3ccd-47fb-bbd0-bd17ae10d4fc",
+      "title": "Spicy Jalape\u00f1o Burger",
+      "subtitle": "Indulgent Saut\u00e9ed Spicy Jalape\u00f1o Burger, highlighting the rich flavors of beef patty and pepper jack cheese, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "jalape\u00f1os",
+        "pepper jack cheese",
+        "sriracha mayo",
+        "lettuce"
+      ],
+      "price": 19.24,
+      "category": "burger"
+    }
+  ],
+  "2d8b87fb-7127-4e04-b7e3-7fd7366bfd0e": [
+    {
+      "id": "a53068ae-8655-4480-a272-dabd5b5b5ddf",
+      "title": "Polenta con Salsicce",
+      "subtitle": "Hearty Slow-cooked Polenta con Salsicce, elevated with parmesan cheese, served to perfection.",
+      "ingredients": [
+        "polenta",
+        "Italian sausage",
+        "onions",
+        "garlic",
+        "parmesan cheese"
+      ],
+      "price": 13.18,
+      "category": "italian"
+    },
+    {
+      "id": "47492ee6-6be9-4c49-9c4d-dc9f2d5f0883",
+      "title": "Pineapple Teriyaki Burger",
+      "subtitle": "Hearty Slow-cooked Pineapple Teriyaki Burger, crafted with a touch of beef patty, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "teriyaki sauce",
+        "pineapple slice",
+        "lettuce",
+        "sesame seed bun"
+      ],
+      "price": 18.7,
+      "category": "burger"
+    }
+  ],
+  "79c91172-41e5-4521-b8d6-30c9812f3794": [
+    {
+      "id": "6252e932-aa00-4adc-afc6-481c2da11b6e",
+      "title": "Pappa al Pomodoro",
+      "subtitle": "Mouthwatering Roasted Pappa al Pomodoro, elevated with ripe tomatoes, served to perfection.",
+      "ingredients": [
+        "stale bread",
+        "ripe tomatoes",
+        "garlic",
+        "basil",
+        "olive oil"
+      ],
+      "price": 28.7,
+      "category": "italian"
+    }
+  ],
+  "00f6bd8c-2044-4cfa-a25e-866d4f865568": [
+    {
+      "id": "2a95ec1f-e688-44cc-b14e-305bd289da9b",
+      "title": "Deep Dish Sausage Pizza",
+      "subtitle": "Exquisite Roasted Deep Dish Sausage Pizza, featuring tomato sauce, sausage, served to perfection.",
+      "ingredients": [
+        "sausage",
+        "mozzarella cheese",
+        "tomato sauce",
+        "bell peppers",
+        "onions"
+      ],
+      "price": 10.33,
+      "category": "pizza"
+    }
+  ],
+  "8689389a-9460-4945-95a7-d5497bd19193": [
+    {
+      "id": "07f52c9f-836d-4aad-8834-c4ef71a32cb0",
+      "title": "BBQ Chicken Pizza",
+      "subtitle": "Mouthwatering Baked BBQ Chicken Pizza, featuring cilantro, mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "chicken",
+        "BBQ sauce",
+        "red onions",
+        "cilantro",
+        "mozzarella cheese"
+      ],
+      "price": 19.53,
+      "category": "pizza"
+    },
+    {
+      "id": "1d705c28-84f0-4cff-8902-bd695d7829b6",
+      "title": "Tuna Tataki",
+      "subtitle": "Savory Slow-cooked Tuna Tataki, highlighting the rich flavor of tuna steak, soy sauce, sesame seeds, green onions, wasabi, served to perfection.",
+      "ingredients": [
+        "tuna steak, soy sauce, sesame seeds, green onions, wasabi"
+      ],
+      "price": 17.56,
+      "category": "sushi"
+    }
+  ],
+  "fb20a423-b682-42b0-92c0-f0c5e4c4d755": [
+    {
+      "id": "ef2270e0-7231-42e5-81be-cf53ff8b1379",
+      "title": "Rainbow Pizza",
+      "subtitle": "Flavorful Charred Rainbow Pizza, highlighting the rich flavors of bell peppers of various colors and tomato sauce, served to perfection.",
+      "ingredients": [
+        "bell peppers of various colors",
+        "mozzarella cheese",
+        "tomato sauce",
+        "onions",
+        "black olives"
+      ],
+      "price": 11.45,
+      "category": "pizza"
+    }
+  ],
+  "bd28046c-652b-486e-9b22-95ed18ebae20": [
+    {
+      "id": "394e690b-bb13-412c-8f92-08c0a2c5ef78",
+      "title": "Sushi Burrito",
+      "subtitle": "Aromatic Saut\u00e9ed Sushi Burrito, elevated with sushi rice, assorted fillings (fish/veggies), nori seaweed wrap, served to perfection.",
+      "ingredients": [
+        "sushi rice, assorted fillings (fish/veggies), nori seaweed wrap"
+      ],
+      "price": 11.25,
+      "category": "sushi"
+    },
+    {
+      "id": "9a496ede-d514-4df0-ab2a-53da444acaaa",
+      "title": "Capricciosa",
+      "subtitle": "Savory Steamed Capricciosa, featuring mozzarella cheese, artichokes, served to perfection.",
+      "ingredients": [
+        "artichokes",
+        "ham",
+        "mushrooms",
+        "olives",
+        "mozzarella cheese"
+      ],
+      "price": 24.57,
+      "category": "pizza"
+    },
+    {
+      "id": "8ecd6098-5ef4-4911-8b83-6cad7d1fa731",
+      "title": "Risotto alla Milanese",
+      "subtitle": "Aromatic Roasted Risotto alla Milanese, crafted with a touch of arborio rice, served to perfection.",
+      "ingredients": [
+        "arborio rice",
+        "saffron",
+        "onion",
+        "white wine",
+        "parmesan cheese"
+      ],
+      "price": 8.22,
+      "category": "italian"
+    }
+  ],
+  "fca2b4c7-f88c-4e70-b5f0-d6c349bdb8d8": [
+    {
+      "id": "a8eed46a-7ae2-42f1-a009-0d4dd2a84803",
+      "title": "Prosciutto & Rocket Pizza",
+      "subtitle": "Aromatic Saut\u00e9ed Prosciutto & Rocket Pizza, featuring rocket leaves, mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "prosciutto",
+        "rocket leaves",
+        "parmesan cheese",
+        "mozzarella cheese",
+        "balsamic glaze"
+      ],
+      "price": 11.88,
+      "category": "pizza"
+    }
+  ],
+  "d052b594-7474-4c58-ba29-b4343729ed2d": [
+    {
+      "id": "93dc52b2-a611-4b13-a411-7f09b83653db",
+      "title": "Lasagna",
+      "subtitle": "Mouthwatering Slow-cooked Lasagna, featuring ricotta cheese, ground beef, served to perfection.",
+      "ingredients": [
+        "lasagna noodles",
+        "ricotta cheese",
+        "mozzarella cheese",
+        "ground beef",
+        "tomato sauce"
+      ],
+      "price": 11.47,
+      "category": "italian"
+    },
+    {
+      "id": "1c4e60d9-5409-4cc2-8fb7-308cabb3b2a5",
+      "title": "Bacon Burger",
+      "subtitle": "Delicious Fried Bacon Burger, highlighting the rich flavors of cheddar cheese and lettuce, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "bacon",
+        "cheddar cheese",
+        "lettuce",
+        "BBQ sauce"
+      ],
+      "price": 22.27,
+      "category": "burger"
+    },
+    {
+      "id": "ea2ff7b7-1d8d-4770-b459-f6f1418b4222",
+      "title": "Spicy Salmon Roll",
+      "subtitle": "Aromatic Saut\u00e9ed Spicy Salmon Roll, elevated with salmon,tobiko (fish roe),spicy mayo,cucumber,nori seaweed, served to perfection.",
+      "ingredients": [
+        "salmon,tobiko (fish roe),spicy mayo,cucumber,nori seaweed"
+      ],
+      "price": 24.67,
+      "category": "sushi"
+    }
+  ],
+  "9eb356ef-551a-4d4d-b620-225fa2985574": [
+    {
+      "id": "25fff1b2-59d1-4924-ba42-df8115f78684",
+      "title": "Spicy Jalape\u00f1o Burger",
+      "subtitle": "Exquisite Baked Spicy Jalape\u00f1o Burger, crafted with a touch of sriracha mayo, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "jalape\u00f1os",
+        "pepper jack cheese",
+        "sriracha mayo",
+        "lettuce"
+      ],
+      "price": 22.64,
+      "category": "burger"
+    },
+    {
+      "id": "e849b87f-9fbe-48f8-bf6c-b3e307e1b352",
+      "title": "Spinach & Blue Cheese Pizza",
+      "subtitle": "Hearty Saut\u00e9ed Spinach & Blue Cheese Pizza, highlighting the rich flavors of olive oil and mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "spinach",
+        "blue cheese",
+        "mozzarella cheese",
+        "walnuts",
+        "olive oil"
+      ],
+      "price": 10.19,
+      "category": "pizza"
+    },
+    {
+      "id": "24508aa9-558c-4881-95db-46227f4376fc",
+      "title": "Sushi Burrito",
+      "subtitle": "Indulgent Fried Sushi Burrito, featuring sushi rice, assorted fillings (fish/veggies), nori seaweed wrap, served to perfection.",
+      "ingredients": [
+        "sushi rice, assorted fillings (fish/veggies), nori seaweed wrap"
+      ],
+      "price": 23.61,
+      "category": "sushi"
+    }
+  ],
+  "2b1d396e-89cb-4aaa-b0c1-99ebc492b618": [
+    {
+      "id": "1ba7c850-c84b-479e-af1a-079fd27d58b7",
+      "title": "Classic American Burger",
+      "subtitle": "Aromatic Slow-cooked Classic American Burger, crafted with a touch of beef patty, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "American cheese",
+        "ketchup",
+        "mustard",
+        "pickles"
+      ],
+      "price": 17.16,
+      "category": "burger"
+    },
+    {
+      "id": "0b1a8e1a-380b-4e40-acc1-7f58562f10d8",
+      "title": "Eel Avocado Roll",
+      "subtitle": "Flavorful Baked Eel Avocado Roll, elevated with eel, avocado, rice, nori seaweed, eel sauce, served to perfection.",
+      "ingredients": [
+        "eel, avocado, rice, nori seaweed, eel sauce"
+      ],
+      "price": 19.22,
+      "category": "sushi"
+    }
+  ],
+  "1c85e0b8-abac-44e9-bde5-c29cf9649dbe": [
+    {
+      "id": "099c3098-4321-42a3-9542-797aa605ebec",
+      "title": "BBQ Meatlovers Pizza",
+      "subtitle": "Indulgent Fried BBQ Meatlovers Pizza, elevated with beef brisket, served to perfection.",
+      "ingredients": [
+        "beef brisket",
+        "pulled pork",
+        "BBQ sauce",
+        "onions",
+        "cheddar cheese"
+      ],
+      "price": 25.75,
+      "category": "pizza"
+    },
+    {
+      "id": "e5da659e-d5f8-48bc-b247-dc2fbf0dd70b",
+      "title": "Margherita Pizza",
+      "subtitle": "Indulgent Baked Margherita Pizza, crafted with a touch of fresh basil, served to perfection.",
+      "ingredients": [
+        "pizza dough",
+        "tomato sauce",
+        "mozzarella cheese",
+        "fresh basil",
+        "olive oil"
+      ],
+      "price": 24.76,
+      "category": "italian"
+    },
+    {
+      "id": "7e5dd997-ced8-4def-a1e1-4134b2b5c907",
+      "title": "Miso Soup with Tofu",
+      "subtitle": "Hearty Grilled Miso Soup with Tofu, crafted with a touch of miso paste, tofu cubes, green onions, seaweed flakes (wakame), dashi broth, served to perfection.",
+      "ingredients": [
+        "miso paste, tofu cubes, green onions, seaweed flakes (wakame), dashi broth"
+      ],
+      "price": 16.01,
+      "category": "sushi"
+    }
+  ],
+  "2ea17230-7c47-405c-a497-7b966b28b2c4": [
+    {
+      "id": "60184ef7-4dfa-4b3f-b38f-11b54f900a61",
+      "title": "Roast Cauliflower Cheese Pizza",
+      "subtitle": "Hearty Roasted Roast Cauliflower Cheese Pizza, crafted with a touch of cauliflower, served to perfection.",
+      "ingredients": [
+        "cauliflower",
+        "cheddar cheese",
+        "mozzarella cheese",
+        "olive oil",
+        "thyme"
+      ],
+      "price": 22.83,
+      "category": "pizza"
+    }
+  ],
+  "2d85d856-712d-4458-8487-4af1219aa27b": [
+    {
+      "id": "b225f04f-fbb7-4be7-aa8e-45498e58e568",
+      "title": "BBQ Bacon Burger",
+      "subtitle": "Savory Roasted BBQ Bacon Burger, elevated with cheddar cheese, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "BBQ sauce",
+        "bacon",
+        "onion rings",
+        "cheddar cheese"
+      ],
+      "price": 23.02,
+      "category": "burger"
+    },
+    {
+      "id": "5c133356-4ae3-45fd-b4c2-748679c699b6",
+      "title": "Gnocchi al Pesto",
+      "subtitle": "Delicious Grilled Gnocchi al Pesto, crafted with a touch of parmesan cheese, served to perfection.",
+      "ingredients": [
+        "gnocchi",
+        "pesto sauce",
+        "parmesan cheese",
+        "pine nuts",
+        "olive oil"
+      ],
+      "price": 11.1,
+      "category": "italian"
+    },
+    {
+      "id": "584e0810-a4cf-4cf6-8641-36617c38e312",
+      "title": "Cucumber Roll",
+      "subtitle": "Delicious Saut\u00e9ed Cucumber Roll, highlighting the rich flavor of cucumber,sushi rice,nori seaweed,sesame seeds,dipping soy sauce, served to perfection.",
+      "ingredients": [
+        "cucumber,sushi rice,nori seaweed,sesame seeds,dipping soy sauce"
+      ],
+      "price": 26.33,
+      "category": "sushi"
+    }
+  ],
+  "747ba4c9-4f83-43c2-b194-2abb4f8bb161": [
+    {
+      "id": "a7bfe8da-c85f-48f0-8802-e137801f6ab7",
+      "title": "Veggie Burger",
+      "subtitle": "Flavorful Roasted Veggie Burger, crafted with a touch of lettuce, served to perfection.",
+      "ingredients": [
+        "black beans",
+        "quinoa",
+        "avocado",
+        "lettuce",
+        "tomato"
+      ],
+      "price": 11.35,
+      "category": "burger"
+    },
+    {
+      "id": "fdbb6ca6-d4b6-485a-89a7-433a021f9d20",
+      "title": "Spinach & Feta Pizza",
+      "subtitle": "Mouthwatering Fried Spinach & Feta Pizza, highlighting the rich flavors of spinach and feta cheese, served to perfection.",
+      "ingredients": [
+        "spinach",
+        "feta cheese",
+        "mozzarella cheese",
+        "olive oil",
+        "garlic"
+      ],
+      "price": 23.06,
+      "category": "pizza"
+    },
+    {
+      "id": "858bcc5b-9c01-4fa9-b3a8-f213f702c401",
+      "title": "Spicy Tuna Roll",
+      "subtitle": "Aromatic Charred Spicy Tuna Roll, crafted with a touch of tuna, spicy mayo, cucumber, rice, nori seaweed, served to perfection.",
+      "ingredients": [
+        "tuna, spicy mayo, cucumber, rice, nori seaweed"
+      ],
+      "price": 23.65,
+      "category": "sushi"
+    }
+  ],
+  "06f80cef-beb3-4669-be49-d5c524e45efe": [
+    {
+      "id": "f581f915-b02b-4ce7-8931-bea8dbad70f9",
+      "title": "Risotto alla Milanese",
+      "subtitle": "Mouthwatering Charred Risotto alla Milanese, crafted with a touch of onion, served to perfection.",
+      "ingredients": [
+        "arborio rice",
+        "saffron",
+        "onion",
+        "white wine",
+        "parmesan cheese"
+      ],
+      "price": 15.59,
+      "category": "italian"
+    },
+    {
+      "id": "e88de7e7-6f37-4193-880e-73225c2ebb6b",
+      "title": "Tempura Roll",
+      "subtitle": "Savory Slow-cooked Tempura Roll, crafted with a touch of shrimp tempura, avocado, cucumber, rice, nori seaweed, served to perfection.",
+      "ingredients": [
+        "shrimp tempura, avocado, cucumber, rice, nori seaweed"
+      ],
+      "price": 15.23,
+      "category": "sushi"
+    }
+  ],
+  "bcc36a99-dc85-4927-9056-23db326f4f35": [
+    {
+      "id": "28b8c386-ae32-4c4a-a404-00715e24b82b",
+      "title": "Hawaiian Pizza",
+      "subtitle": "Flavorful Charred Hawaiian Pizza, highlighting the rich flavors of mozzarella cheese and ham, served to perfection.",
+      "ingredients": [
+        "ham",
+        "pineapple",
+        "mozzarella cheese",
+        "tomato sauce",
+        "olive oil"
+      ],
+      "price": 7.69,
+      "category": "pizza"
+    },
+    {
+      "id": "5c05f393-6b42-48d1-8670-c2099a8abc22",
+      "title": "Bacon Burger",
+      "subtitle": "Mouthwatering Slow-cooked Bacon Burger, elevated with BBQ sauce, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "bacon",
+        "cheddar cheese",
+        "lettuce",
+        "BBQ sauce"
+      ],
+      "price": 29.68,
+      "category": "burger"
+    },
+    {
+      "id": "5772e087-74e9-411d-8c5c-6bfb5f3d8854",
+      "title": "Cucumber Roll",
+      "subtitle": "Delicious Baked Cucumber Roll, crafted with a touch of cucumber,sushi rice,nori seaweed,sesame seeds,dipping soy sauce, served to perfection.",
+      "ingredients": [
+        "cucumber,sushi rice,nori seaweed,sesame seeds,dipping soy sauce"
+      ],
+      "price": 18.41,
+      "category": "sushi"
+    }
+  ],
+  "e19400db-2cf9-4d56-845b-39f54939e92c": [
+    {
+      "id": "7218a059-833a-4aff-aa7a-d2a0c1589017",
+      "title": "Potato & Rosemary Pizza",
+      "subtitle": "Hearty Roasted Potato & Rosemary Pizza, featuring olive oil, mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "potatoes",
+        "rosemary",
+        "mozzarella cheese",
+        "olive oil",
+        "sea salt"
+      ],
+      "price": 19.4,
+      "category": "pizza"
+    },
+    {
+      "id": "a9dff35d-88a5-4d67-a6bc-c5616102d4b2",
+      "title": "Nigiri Sushi",
+      "subtitle": "Mouthwatering Baked Nigiri Sushi, featuring sushi rice,fresh fish slice (salmon,tuna),wasabi,nori strip,sesame seeds, served to perfection.",
+      "ingredients": [
+        "sushi rice,fresh fish slice (salmon,tuna),wasabi,nori strip,sesame seeds"
+      ],
+      "price": 12.47,
+      "category": "sushi"
+    },
+    {
+      "id": "9d50a104-d218-4c44-b51e-fdb31529055a",
+      "title": "Classic American Burger",
+      "subtitle": "Aromatic Grilled Classic American Burger, highlighting the rich flavors of American cheese and pickles, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "American cheese",
+        "ketchup",
+        "mustard",
+        "pickles"
+      ],
+      "price": 8.71,
+      "category": "burger"
+    }
+  ],
+  "01ff726e-0e3d-4734-b90d-9c944f063ec3": [
+    {
+      "id": "2b225d27-db35-41e8-be7a-1297bbbc70d7",
+      "title": "Eel Avocado Roll",
+      "subtitle": "Hearty Saut\u00e9ed Eel Avocado Roll, featuring eel, avocado, rice, nori seaweed, eel sauce, served to perfection.",
+      "ingredients": [
+        "eel, avocado, rice, nori seaweed, eel sauce"
+      ],
+      "price": 10.11,
+      "category": "sushi"
+    },
+    {
+      "id": "bcada72f-b78a-4420-ad70-dadb9fbfb3d1",
+      "title": "Lamb Burger with Tzatziki",
+      "subtitle": "Mouthwatering Charred Lamb Burger with Tzatziki, elevated with red onion, served to perfection.",
+      "ingredients": [
+        "lamb patty",
+        "tzatziki sauce",
+        "cucumber",
+        "red onion",
+        "feta"
+      ],
+      "price": 21.31,
+      "category": "burger"
+    },
+    {
+      "id": "bd70fd04-3f68-4259-b7a6-612ef89ea8d0",
+      "title": "Rainbow Pizza",
+      "subtitle": "Mouthwatering Steamed Rainbow Pizza, highlighting the rich flavors of bell peppers of various colors and mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "bell peppers of various colors",
+        "mozzarella cheese",
+        "tomato sauce",
+        "onions",
+        "black olives"
+      ],
+      "price": 15.48,
+      "category": "pizza"
+    }
+  ],
+  "77a1751d-8939-4692-ba23-be0ad72bb3e2": [
+    {
+      "id": "e37254ea-e979-4a60-97fd-65cc4c3c57d9",
+      "title": "Blue Cheese Burger",
+      "subtitle": "Aromatic Roasted Blue Cheese Burger, crafted with a touch of arugula, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "blue cheese crumbles",
+        "caramelized onions",
+        "arugula",
+        "balsamic glaze"
+      ],
+      "price": 19.35,
+      "category": "burger"
+    },
+    {
+      "id": "0c1bb066-6667-4687-ab10-46c3c1ad25a6",
+      "title": "Spinach & Feta Pizza",
+      "subtitle": "Flavorful Saut\u00e9ed Spinach & Feta Pizza, elevated with garlic, served to perfection.",
+      "ingredients": [
+        "spinach",
+        "feta cheese",
+        "mozzarella cheese",
+        "olive oil",
+        "garlic"
+      ],
+      "price": 8.19,
+      "category": "pizza"
+    }
+  ],
+  "6ba24e76-e8d0-4fc7-a3ed-bfc8280bca87": [
+    {
+      "id": "e9bb7d41-a146-413f-bf77-e3e99e59b9a0",
+      "title": "Hawaiian Pizza",
+      "subtitle": "Delicious Steamed Hawaiian Pizza, crafted with a touch of pineapple, served to perfection.",
+      "ingredients": [
+        "ham",
+        "pineapple",
+        "mozzarella cheese",
+        "tomato sauce",
+        "olive oil"
+      ],
+      "price": 8.96,
+      "category": "pizza"
+    },
+    {
+      "id": "e2578aa3-35a5-4d7e-a4fb-2392a06aae09",
+      "title": "Nigiri Sushi",
+      "subtitle": "Exquisite Charred Nigiri Sushi, featuring sushi rice,fresh fish slice (salmon,tuna),wasabi,nori strip,sesame seeds, served to perfection.",
+      "ingredients": [
+        "sushi rice,fresh fish slice (salmon,tuna),wasabi,nori strip,sesame seeds"
+      ],
+      "price": 16.92,
+      "category": "sushi"
+    }
+  ],
+  "147e0422-7b09-4008-9b2a-2d0c9073d5b5": [
+    {
+      "id": "d5d1096f-78ed-4e69-880e-9159b5c7d6e7",
+      "title": "Chipotle Chicken Burger",
+      "subtitle": "Indulgent Baked Chipotle Chicken Burger, featuring chipotle mayo, onions, served to perfection.",
+      "ingredients": [
+        "grilled chicken breast",
+        "chipotle mayo",
+        "lettuce",
+        "tomato",
+        "onions"
+      ],
+      "price": 14.37,
+      "category": "burger"
+    },
+    {
+      "id": "c93cb530-4a38-4960-ae2b-c64d6e5c56f7",
+      "title": "Spinach & Blue Cheese Pizza",
+      "subtitle": "Hearty Saut\u00e9ed Spinach & Blue Cheese Pizza, highlighting the rich flavors of spinach and blue cheese, served to perfection.",
+      "ingredients": [
+        "spinach",
+        "blue cheese",
+        "mozzarella cheese",
+        "walnuts",
+        "olive oil"
+      ],
+      "price": 28.75,
+      "category": "pizza"
+    }
+  ],
+  "ab57ee00-77f0-469f-aa85-79f0e51028aa": [
+    {
+      "id": "149a462e-4db1-4d17-8a75-e8a8bdba8ea9",
+      "title": "Pappa al Pomodoro",
+      "subtitle": "Delicious Baked Pappa al Pomodoro, elevated with stale bread, served to perfection.",
+      "ingredients": [
+        "stale bread",
+        "ripe tomatoes",
+        "garlic",
+        "basil",
+        "olive oil"
+      ],
+      "price": 17.43,
+      "category": "italian"
+    }
+  ],
+  "17c19570-8785-44e0-8de5-a8050bc221dc": [
+    {
+      "id": "199910f6-fcb2-4364-bca6-594893c7666e",
+      "title": "Salmon Sashimi",
+      "subtitle": "Delicious Charred Salmon Sashimi, crafted with a touch of salmon, wasabi, soy sauce, pickled ginger, sesame seeds, served to perfection.",
+      "ingredients": [
+        "salmon, wasabi, soy sauce, pickled ginger, sesame seeds"
+      ],
+      "price": 14.14,
+      "category": "sushi"
+    },
+    {
+      "id": "23d737dc-e698-4b32-b07e-2bcff76bdc08",
+      "title": "Meat Lovers Pizza",
+      "subtitle": "Exquisite Fried Meat Lovers Pizza, elevated with mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "pepperoni",
+        "sausage",
+        "bacon",
+        "ham",
+        "mozzarella cheese"
+      ],
+      "price": 9.72,
+      "category": "pizza"
+    }
+  ],
+  "7f950124-6e9d-4300-9bb1-4b3b8d1c735e": [
+    {
+      "id": "5170ab36-a9e3-4ee1-b012-c9337699eff4",
+      "title": "Eel Avocado Roll",
+      "subtitle": "Indulgent Roasted Eel Avocado Roll, featuring eel, avocado, rice, nori seaweed, eel sauce, served to perfection.",
+      "ingredients": [
+        "eel, avocado, rice, nori seaweed, eel sauce"
+      ],
+      "price": 27.05,
+      "category": "sushi"
+    }
+  ],
+  "74aa62a9-2efb-4189-8f5e-1509718421f7": [
+    {
+      "id": "c73b663b-94a6-420a-97a2-f7d85966649a",
+      "title": "Veggie Burger",
+      "subtitle": "Mouthwatering Saut\u00e9ed Veggie Burger, highlighting the rich flavors of lettuce and quinoa, served to perfection.",
+      "ingredients": [
+        "black beans",
+        "quinoa",
+        "avocado",
+        "lettuce",
+        "tomato"
+      ],
+      "price": 8.32,
+      "category": "burger"
+    },
+    {
+      "id": "5e72a091-dc4a-42db-bf76-aa6773fdb048",
+      "title": "Polenta con Salsicce",
+      "subtitle": "Exquisite Fried Polenta con Salsicce, featuring polenta, onions, served to perfection.",
+      "ingredients": [
+        "polenta",
+        "Italian sausage",
+        "onions",
+        "garlic",
+        "parmesan cheese"
+      ],
+      "price": 15.0,
+      "category": "italian"
+    },
+    {
+      "id": "9481556e-5b47-4871-affc-4038f0d29fe9",
+      "title": "Deep Dish Sausage Pizza",
+      "subtitle": "Indulgent Steamed Deep Dish Sausage Pizza, featuring bell peppers, onions, served to perfection.",
+      "ingredients": [
+        "sausage",
+        "mozzarella cheese",
+        "tomato sauce",
+        "bell peppers",
+        "onions"
+      ],
+      "price": 20.94,
+      "category": "pizza"
+    }
+  ],
+  "9295cf34-d249-46d8-ae31-63ec6d2f2a1f": [
+    {
+      "id": "d286b83d-2120-4dff-b8ef-680baf5da0e7",
+      "title": "Buffalo Chicken Pizza",
+      "subtitle": "Aromatic Slow-cooked Buffalo Chicken Pizza, crafted with a touch of chicken, served to perfection.",
+      "ingredients": [
+        "buffalo sauce",
+        "chicken",
+        "blue cheese dressing",
+        "celery",
+        "mozzarella cheese"
+      ],
+      "price": 7.04,
+      "category": "pizza"
+    },
+    {
+      "id": "11caabb0-32b3-4cef-ac12-4ed493c1f44d",
+      "title": "Cannoli",
+      "subtitle": "Aromatic Roasted Cannoli, highlighting the rich flavors of chocolate chips and powdered sugar, served to perfection.",
+      "ingredients": [
+        "cannoli shells",
+        "ricotta cheese",
+        "powdered sugar",
+        "chocolate chips",
+        "vanilla extract"
+      ],
+      "price": 21.07,
+      "category": "italian"
+    },
+    {
+      "id": "389dc969-8167-491e-a80f-3e42203af4d2",
+      "title": "Turkey Burger",
+      "subtitle": "Savory Roasted Turkey Burger, elevated with lettuce, served to perfection.",
+      "ingredients": [
+        "turkey patty",
+        "avocado",
+        "lettuce",
+        "tomato",
+        "chipotle mayo"
+      ],
+      "price": 27.96,
+      "category": "burger"
+    }
+  ],
+  "06ea21ce-5f02-482a-8626-a9b2202d639f": [
+    {
+      "id": "55bf1d8b-3f46-4391-af56-9464d2e08cdd",
+      "title": "Buffalo Chicken Pizza",
+      "subtitle": "Indulgent Saut\u00e9ed Buffalo Chicken Pizza, highlighting the rich flavors of mozzarella cheese and blue cheese dressing, served to perfection.",
+      "ingredients": [
+        "buffalo sauce",
+        "chicken",
+        "blue cheese dressing",
+        "celery",
+        "mozzarella cheese"
+      ],
+      "price": 26.06,
+      "category": "pizza"
+    },
+    {
+      "id": "0f60666a-bf0f-4672-a8a0-c1ab5c3b704e",
+      "title": "Spicy Jalape\u00f1o Burger",
+      "subtitle": "Delicious Steamed Spicy Jalape\u00f1o Burger, crafted with a touch of jalape\u00f1os, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "jalape\u00f1os",
+        "pepper jack cheese",
+        "sriracha mayo",
+        "lettuce"
+      ],
+      "price": 28.88,
+      "category": "burger"
+    }
+  ],
+  "50c33c8c-a03a-47c8-89e6-1b6957ecb540": [
+    {
+      "id": "a299577c-e50d-4309-965a-1c949e73cdc6",
+      "title": "Meat Lovers Pizza",
+      "subtitle": "Exquisite Charred Meat Lovers Pizza, elevated with bacon, served to perfection.",
+      "ingredients": [
+        "pepperoni",
+        "sausage",
+        "bacon",
+        "ham",
+        "mozzarella cheese"
+      ],
+      "price": 13.88,
+      "category": "pizza"
+    },
+    {
+      "id": "76b2f24d-5748-425c-8743-d1ca60001505",
+      "title": "Avocado Burger",
+      "subtitle": "Aromatic Slow-cooked Avocado Burger, featuring avocado, beef patty, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "avocado",
+        "pepper jack cheese",
+        "lettuce",
+        "tomato"
+      ],
+      "price": 11.78,
+      "category": "burger"
+    }
+  ],
+  "c2c9e57e-e618-43b1-a48b-2a9ccdcffc22": [
+    {
+      "id": "e5890980-e1cd-429c-b502-7c9d0ae6985b",
+      "title": "Salmon Sashimi",
+      "subtitle": "Aromatic Baked Salmon Sashimi, highlighting the rich flavor of salmon, wasabi, soy sauce, pickled ginger, sesame seeds, served to perfection.",
+      "ingredients": [
+        "salmon, wasabi, soy sauce, pickled ginger, sesame seeds"
+      ],
+      "price": 28.2,
+      "category": "sushi"
+    }
+  ],
+  "09c17850-2971-4c96-9424-4c2b09e2755b": [
+    {
+      "id": "ca93d00e-2284-42e6-b0ab-82eb9776bae8",
+      "title": "Lamb Burger with Tzatziki",
+      "subtitle": "Exquisite Slow-cooked Lamb Burger with Tzatziki, crafted with a touch of feta, served to perfection.",
+      "ingredients": [
+        "lamb patty",
+        "tzatziki sauce",
+        "cucumber",
+        "red onion",
+        "feta"
+      ],
+      "price": 21.28,
+      "category": "burger"
+    },
+    {
+      "id": "41500d00-1b6f-47e0-8c48-77be32e3861f",
+      "title": "Caprese Salad",
+      "subtitle": "Mouthwatering Fried Caprese Salad, elevated with fresh mozzarella, served to perfection.",
+      "ingredients": [
+        "fresh mozzarella",
+        "tomatoes",
+        "basil",
+        "olive oil",
+        "balsamic vinegar"
+      ],
+      "price": 27.88,
+      "category": "italian"
+    },
+    {
+      "id": "9f05aece-11f9-4b7f-afd9-740b2c628352",
+      "title": "Spinach & Feta Pizza",
+      "subtitle": "Aromatic Grilled Spinach & Feta Pizza, crafted with a touch of feta cheese, served to perfection.",
+      "ingredients": [
+        "spinach",
+        "feta cheese",
+        "mozzarella cheese",
+        "olive oil",
+        "garlic"
+      ],
+      "price": 19.29,
+      "category": "pizza"
+    }
+  ],
+  "25e231f4-ab60-4559-ad23-85db4c8945bc": [
+    {
+      "id": "e3d77d60-81b8-46c4-b7f8-e0ef23a17a34",
+      "title": "Pesto Genovese",
+      "subtitle": "Savory Steamed Pesto Genovese, elevated with basil, served to perfection.",
+      "ingredients": [
+        "basil",
+        "pine nuts",
+        "garlic",
+        "parmesan cheese",
+        "olive oil"
+      ],
+      "price": 15.09,
+      "category": "italian"
+    }
+  ],
+  "217bc1e0-6575-48ac-bccc-b742b95c720d": [
+    {
+      "id": "2a7f29cc-a016-4400-a7f2-9ebf806a11a8",
+      "title": "Rainbow Pizza",
+      "subtitle": "Aromatic Fried Rainbow Pizza, crafted with a touch of onions, served to perfection.",
+      "ingredients": [
+        "bell peppers of various colors",
+        "mozzarella cheese",
+        "tomato sauce",
+        "onions",
+        "black olives"
+      ],
+      "price": 26.07,
+      "category": "pizza"
+    },
+    {
+      "id": "382f0a20-6717-4d81-80c0-8cb182622452",
+      "title": "Sliders with Assorted Toppings",
+      "subtitle": "Savory Roasted Sliders with Assorted Toppings, highlighting the rich flavors of special sauce and pickles, served to perfection.",
+      "ingredients": [
+        "mini beef patties",
+        "various cheeses",
+        "pickles",
+        "lettuce",
+        "special sauce"
+      ],
+      "price": 25.14,
+      "category": "burger"
+    }
+  ],
+  "a623d8e1-1d42-4f7c-b48c-b0f24021091e": [
+    {
+      "id": "83f3628a-9b59-43c4-bc1e-146fa6ddd09b",
+      "title": "Caprese Salad",
+      "subtitle": "Delicious Grilled Caprese Salad, crafted with a touch of fresh mozzarella, served to perfection.",
+      "ingredients": [
+        "fresh mozzarella",
+        "tomatoes",
+        "basil",
+        "olive oil",
+        "balsamic vinegar"
+      ],
+      "price": 14.0,
+      "category": "italian"
+    },
+    {
+      "id": "f6d84d30-5cff-488f-ad87-6ba312144c34",
+      "title": "Prosciutto & Rocket Pizza",
+      "subtitle": "Delicious Charred Prosciutto & Rocket Pizza, crafted with a touch of mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "prosciutto",
+        "rocket leaves",
+        "parmesan cheese",
+        "mozzarella cheese",
+        "balsamic glaze"
+      ],
+      "price": 11.71,
+      "category": "pizza"
+    }
+  ],
+  "31839c92-b24f-494c-afcb-64a79c98663a": [
+    {
+      "id": "3db65c54-ad35-4ba9-a6c8-3f75c1734f3a",
+      "title": "Sushi Burrito",
+      "subtitle": "Savory Grilled Sushi Burrito, highlighting the rich flavor of sushi rice, assorted fillings (fish/veggies), nori seaweed wrap, served to perfection.",
+      "ingredients": [
+        "sushi rice, assorted fillings (fish/veggies), nori seaweed wrap"
+      ],
+      "price": 24.92,
+      "category": "sushi"
+    },
+    {
+      "id": "19e42411-f57b-4a13-8291-e10e1a3b3091",
+      "title": "Risotto alla Milanese",
+      "subtitle": "Mouthwatering Steamed Risotto alla Milanese, elevated with onion, served to perfection.",
+      "ingredients": [
+        "arborio rice",
+        "saffron",
+        "onion",
+        "white wine",
+        "parmesan cheese"
+      ],
+      "price": 27.96,
+      "category": "italian"
+    }
+  ],
+  "2a0b2189-6671-4ba5-af66-e28b92a70718": [
+    {
+      "id": "1045ebf3-e874-4b0d-bc5e-c23d62ee4ed5",
+      "title": "Nigiri Sushi",
+      "subtitle": "Aromatic Baked Nigiri Sushi, featuring sushi rice,fresh fish slice (salmon,tuna),wasabi,nori strip,sesame seeds, served to perfection.",
+      "ingredients": [
+        "sushi rice,fresh fish slice (salmon,tuna),wasabi,nori strip,sesame seeds"
+      ],
+      "price": 18.48,
+      "category": "sushi"
+    },
+    {
+      "id": "ae3ffba7-4042-44f7-a17b-6d1df696fbe7",
+      "title": "Deep Dish Sausage Pizza",
+      "subtitle": "Indulgent Charred Deep Dish Sausage Pizza, featuring onions, bell peppers, served to perfection.",
+      "ingredients": [
+        "sausage",
+        "mozzarella cheese",
+        "tomato sauce",
+        "bell peppers",
+        "onions"
+      ],
+      "price": 25.37,
+      "category": "pizza"
+    }
+  ],
+  "f294671b-9d52-4ded-a6ee-daaebf8f8e22": [
+    {
+      "id": "9b89f319-b528-46f8-ae60-cfcd42c5ab29",
+      "title": "Spinach & Blue Cheese Pizza",
+      "subtitle": "Indulgent Fried Spinach & Blue Cheese Pizza, elevated with walnuts, served to perfection.",
+      "ingredients": [
+        "spinach",
+        "blue cheese",
+        "mozzarella cheese",
+        "walnuts",
+        "olive oil"
+      ],
+      "price": 16.09,
+      "category": "pizza"
+    },
+    {
+      "id": "14af20e7-e3ba-4dc1-8fa1-75d1bf4cdf03",
+      "title": "Saltimbocca alla Romana",
+      "subtitle": "Indulgent Grilled Saltimbocca alla Romana, featuring white wine, prosciutto, served to perfection.",
+      "ingredients": [
+        "veal cutlets",
+        "prosciutto",
+        "sage leaves",
+        "white wine",
+        "butter"
+      ],
+      "price": 13.76,
+      "category": "italian"
+    },
+    {
+      "id": "641075e1-7db3-4d12-b2cc-969a6fda18c6",
+      "title": "Vegetable Roll",
+      "subtitle": "Aromatic Charred Vegetable Roll, crafted with a touch of cucumber, avocado, carrot, rice, nori seaweed, served to perfection.",
+      "ingredients": [
+        "cucumber, avocado, carrot, rice, nori seaweed"
+      ],
+      "price": 9.07,
+      "category": "sushi"
+    }
+  ],
+  "6ab1142a-cff6-48eb-bc53-2408bee1bd92": [
+    {
+      "id": "4e9a0f1e-c060-4c50-8b48-28d6b7d55380",
+      "title": "Pork Katsu Sushi",
+      "subtitle": "Aromatic Roasted Pork Katsu Sushi, elevated with pork loin cutlet,panko breadcrumbs,rice,nori seaweed,tonkatsu sauce, served to perfection.",
+      "ingredients": [
+        "pork loin cutlet,panko breadcrumbs,rice,nori seaweed,tonkatsu sauce"
+      ],
+      "price": 24.22,
+      "category": "sushi"
+    },
+    {
+      "id": "da1c30a0-b4ae-43b4-88d6-7fbb88c057ce",
+      "title": "Prosciutto & Rocket Pizza",
+      "subtitle": "Hearty Baked Prosciutto & Rocket Pizza, featuring balsamic glaze, mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "prosciutto",
+        "rocket leaves",
+        "parmesan cheese",
+        "mozzarella cheese",
+        "balsamic glaze"
+      ],
+      "price": 19.25,
+      "category": "pizza"
+    },
+    {
+      "id": "8ff8e3b6-1929-4943-8bf2-9b3d8cf32b92",
+      "title": "Spicy Jalape\u00f1o Burger",
+      "subtitle": "Aromatic Charred Spicy Jalape\u00f1o Burger, featuring jalape\u00f1os, beef patty, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "jalape\u00f1os",
+        "pepper jack cheese",
+        "sriracha mayo",
+        "lettuce"
+      ],
+      "price": 27.61,
+      "category": "burger"
+    }
+  ],
+  "2428698b-7264-488b-b04d-b728efa72ebc": [
+    {
+      "id": "c6d6ccd7-172d-4032-b0e3-647b1b9b62eb",
+      "title": "Crispy Chickpea Burger",
+      "subtitle": "Aromatic Roasted Crispy Chickpea Burger, featuring spices, avocado, served to perfection.",
+      "ingredients": [
+        "chickpeas",
+        "spices",
+        "avocado",
+        "lettuce",
+        "tahini sauce"
+      ],
+      "price": 9.8,
+      "category": "burger"
+    },
+    {
+      "id": "17022bd0-21be-4fbc-8067-d6c478ccd8d7",
+      "title": "Spinach & Blue Cheese Pizza",
+      "subtitle": "Delicious Steamed Spinach & Blue Cheese Pizza, featuring spinach, blue cheese, served to perfection.",
+      "ingredients": [
+        "spinach",
+        "blue cheese",
+        "mozzarella cheese",
+        "walnuts",
+        "olive oil"
+      ],
+      "price": 8.29,
+      "category": "pizza"
+    }
+  ],
+  "f0bb391b-e3b6-48b0-9b40-b7a4ba19558f": [
+    {
+      "id": "91332875-47a1-4261-a41e-b90e235489fd",
+      "title": "Philadelphia Roll",
+      "subtitle": "Delicious Baked Philadelphia Roll, crafted with a touch of smoked salmon, cream cheese, cucumber, rice, nori seaweed, served to perfection.",
+      "ingredients": [
+        "smoked salmon, cream cheese, cucumber, rice, nori seaweed"
+      ],
+      "price": 23.25,
+      "category": "sushi"
+    }
+  ],
+  "117eb9a5-3770-4a54-8ddb-042ba43365cb": [
+    {
+      "id": "33618219-aaf1-4823-be8b-8bdce73d370d",
+      "title": "Four Cheese Pizza",
+      "subtitle": "Exquisite Charred Four Cheese Pizza, highlighting the rich flavors of parmesan cheese and olive oil, served to perfection.",
+      "ingredients": [
+        "mozzarella cheese",
+        "gorgonzola cheese",
+        "parmesan cheese",
+        "ricotta cheese",
+        "olive oil"
+      ],
+      "price": 22.29,
+      "category": "pizza"
+    },
+    {
+      "id": "0f75ae90-c35d-44fd-9931-5ad02818b9c9",
+      "title": "Greek Lamb Burger",
+      "subtitle": "Indulgent Roasted Greek Lamb Burger, elevated with feta cheese, served to perfection.",
+      "ingredients": [
+        "lamb patty",
+        "feta cheese",
+        "tzatziki sauce",
+        "red onion",
+        "cucumber"
+      ],
+      "price": 17.05,
+      "category": "burger"
+    }
+  ],
+  "52f51d50-9064-4469-9a3b-831938b79117": [
+    {
+      "id": "06a63fb4-2ef9-4dca-8486-e590e8120b60",
+      "title": "Crab Rangoon Roll",
+      "subtitle": "Delicious Grilled Crab Rangoon Roll, crafted with a touch of crab meat or imitation crab, cream cheese, green onions, rice, nori seaweed, served to perfection.",
+      "ingredients": [
+        "crab meat or imitation crab, cream cheese, green onions, rice, nori seaweed"
+      ],
+      "price": 23.81,
+      "category": "sushi"
+    },
+    {
+      "id": "64b02365-a355-4eb2-9035-c993ed1d4466",
+      "title": "Lasagna",
+      "subtitle": "Aromatic Roasted Lasagna, highlighting the rich flavors of ground beef and ricotta cheese, served to perfection.",
+      "ingredients": [
+        "lasagna noodles",
+        "ricotta cheese",
+        "mozzarella cheese",
+        "ground beef",
+        "tomato sauce"
+      ],
+      "price": 19.13,
+      "category": "italian"
+    }
+  ],
+  "fec4fb90-c694-40e8-9784-c369b786e839": [
+    {
+      "id": "bb4dec2f-3dfd-42a6-af03-46f84888edc0",
+      "title": "Buffalo Chicken Pizza",
+      "subtitle": "Flavorful Fried Buffalo Chicken Pizza, crafted with a touch of buffalo sauce, served to perfection.",
+      "ingredients": [
+        "buffalo sauce",
+        "chicken",
+        "blue cheese dressing",
+        "celery",
+        "mozzarella cheese"
+      ],
+      "price": 15.47,
+      "category": "pizza"
+    },
+    {
+      "id": "02729585-764b-4313-b196-52bb175fa189",
+      "title": "Pork Katsu Sushi",
+      "subtitle": "Savory Grilled Pork Katsu Sushi, crafted with a touch of pork loin cutlet,panko breadcrumbs,rice,nori seaweed,tonkatsu sauce, served to perfection.",
+      "ingredients": [
+        "pork loin cutlet,panko breadcrumbs,rice,nori seaweed,tonkatsu sauce"
+      ],
+      "price": 18.48,
+      "category": "sushi"
+    },
+    {
+      "id": "eac2edc1-0b27-43df-a4f9-9c85e14f81cb",
+      "title": "Fritto Misto",
+      "subtitle": "Aromatic Baked Fritto Misto, elevated with calamari, served to perfection.",
+      "ingredients": [
+        "shrimp",
+        "calamari",
+        "zucchini",
+        "flour",
+        "lemon"
+      ],
+      "price": 12.29,
+      "category": "italian"
+    }
+  ],
+  "892dc265-2364-4d61-8a79-88deb2b73aa9": [
+    {
+      "id": "d07f7331-4f87-465a-87fa-5a0aeae2eb3d",
+      "title": "Lasagna",
+      "subtitle": "Flavorful Slow-cooked Lasagna, elevated with ground beef, served to perfection.",
+      "ingredients": [
+        "lasagna noodles",
+        "ricotta cheese",
+        "mozzarella cheese",
+        "ground beef",
+        "tomato sauce"
+      ],
+      "price": 22.49,
+      "category": "italian"
+    },
+    {
+      "id": "2b51eef1-bf94-47d7-b75e-28a22f37bec9",
+      "title": "Sashimi Platter",
+      "subtitle": "Indulgent Charred Sashimi Platter, elevated with assorted fish slices (salmon,tuna), wasabi,sliced lemon,sesame seeds,sliced radish, served to perfection.",
+      "ingredients": [
+        "assorted fish slices (salmon,tuna), wasabi,sliced lemon,sesame seeds,sliced radish"
+      ],
+      "price": 26.45,
+      "category": "sushi"
+    }
+  ],
+  "5a23a378-7f7d-4c5f-aab1-2ce8d79cb64c": [
+    {
+      "id": "e726bcfe-aa30-4390-84c9-ab24feced076",
+      "title": "Cucumber Roll",
+      "subtitle": "Flavorful Grilled Cucumber Roll, elevated with cucumber,sushi rice,nori seaweed,sesame seeds,dipping soy sauce, served to perfection.",
+      "ingredients": [
+        "cucumber,sushi rice,nori seaweed,sesame seeds,dipping soy sauce"
+      ],
+      "price": 24.35,
+      "category": "sushi"
+    }
+  ],
+  "0d695278-ef3a-423d-9000-3341075f5a4a": [
+    {
+      "id": "4b941830-9db1-4e93-8983-358e8d82d724",
+      "title": "Bacon Burger",
+      "subtitle": "Flavorful Grilled Bacon Burger, featuring bacon, lettuce, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "bacon",
+        "cheddar cheese",
+        "lettuce",
+        "BBQ sauce"
+      ],
+      "price": 14.37,
+      "category": "burger"
+    },
+    {
+      "id": "a332af44-9aa3-49d0-b2b4-a88624a17036",
+      "title": "Meat Lovers Pizza",
+      "subtitle": "Delicious Roasted Meat Lovers Pizza, featuring pepperoni, sausage, served to perfection.",
+      "ingredients": [
+        "pepperoni",
+        "sausage",
+        "bacon",
+        "ham",
+        "mozzarella cheese"
+      ],
+      "price": 25.22,
+      "category": "pizza"
+    },
+    {
+      "id": "2943ec9c-b78b-410e-8876-37aaa38bee7c",
+      "title": "Spicy Salmon Roll",
+      "subtitle": "Hearty Grilled Spicy Salmon Roll, featuring salmon,tobiko (fish roe),spicy mayo,cucumber,nori seaweed, served to perfection.",
+      "ingredients": [
+        "salmon,tobiko (fish roe),spicy mayo,cucumber,nori seaweed"
+      ],
+      "price": 15.71,
+      "category": "sushi"
+    }
+  ],
+  "36bdc58d-6a5a-4f27-b082-a430a77d307e": [
+    {
+      "id": "7a488b06-5e04-4b7e-bb62-8c9804c5cc64",
+      "title": "Classic American Burger",
+      "subtitle": "Aromatic Grilled Classic American Burger, highlighting the rich flavors of beef patty and mustard, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "American cheese",
+        "ketchup",
+        "mustard",
+        "pickles"
+      ],
+      "price": 21.74,
+      "category": "burger"
+    }
+  ],
+  "69e48329-2957-4c07-b4ab-dec26f27c559": [
+    {
+      "id": "2ada3789-4f1d-4ca4-9c61-6a05ae9a0b38",
+      "title": "Pepperoni Pizza",
+      "subtitle": "Delicious Grilled Pepperoni Pizza, crafted with a touch of mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "pepperoni",
+        "mozzarella cheese",
+        "tomato sauce",
+        "olive oil",
+        "oregano"
+      ],
+      "price": 22.53,
+      "category": "pizza"
+    },
+    {
+      "id": "774af945-72b9-4c50-9dac-4909daa4b4fc",
+      "title": "Tempura Roll",
+      "subtitle": "Exquisite Grilled Tempura Roll, featuring shrimp tempura, avocado, cucumber, rice, nori seaweed, served to perfection.",
+      "ingredients": [
+        "shrimp tempura, avocado, cucumber, rice, nori seaweed"
+      ],
+      "price": 13.63,
+      "category": "sushi"
+    }
+  ],
+  "41ad9e32-845f-4896-a2ce-14a25e6e3308": [
+    {
+      "id": "59b52724-b92d-4eef-8c91-5347838eb1ef",
+      "title": "Trofie al Pesto Genovese",
+      "subtitle": "Exquisite Baked Trofie al Pesto Genovese, featuring basil pesto, potatoes, served to perfection.",
+      "ingredients": [
+        "trofie pasta",
+        "basil pesto",
+        "green beans",
+        "potatoes",
+        "parmesan cheese"
+      ],
+      "price": 14.21,
+      "category": "italian"
+    },
+    {
+      "id": "dba161d1-844d-4a36-9db8-75de3c4feafb",
+      "title": "Fried Egg Burger",
+      "subtitle": "Aromatic Fried Fried Egg Burger, highlighting the rich flavors of bacon and lettuce, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "fried egg",
+        "bacon",
+        "cheddar cheese",
+        "lettuce"
+      ],
+      "price": 27.04,
+      "category": "burger"
+    },
+    {
+      "id": "d460bcbb-9299-4217-b13b-2d40eeaa572d",
+      "title": "Spinach & Blue Cheese Pizza",
+      "subtitle": "Indulgent Roasted Spinach & Blue Cheese Pizza, crafted with a touch of blue cheese, served to perfection.",
+      "ingredients": [
+        "spinach",
+        "blue cheese",
+        "mozzarella cheese",
+        "walnuts",
+        "olive oil"
+      ],
+      "price": 28.25,
+      "category": "pizza"
+    }
+  ],
+  "2ab6f35f-0300-4c34-83d6-64ea954f0f5b": [
+    {
+      "id": "b09f2180-2c4c-4408-8f4d-4a1bebf511df",
+      "title": "Caprese Salad",
+      "subtitle": "Aromatic Fried Caprese Salad, featuring olive oil, fresh mozzarella, served to perfection.",
+      "ingredients": [
+        "fresh mozzarella",
+        "tomatoes",
+        "basil",
+        "olive oil",
+        "balsamic vinegar"
+      ],
+      "price": 11.45,
+      "category": "italian"
+    },
+    {
+      "id": "37d60330-6e21-4b18-a86f-c124dbc7e50c",
+      "title": "Crab Rangoon Roll",
+      "subtitle": "Aromatic Grilled Crab Rangoon Roll, crafted with a touch of crab meat or imitation crab, cream cheese, green onions, rice, nori seaweed, served to perfection.",
+      "ingredients": [
+        "crab meat or imitation crab, cream cheese, green onions, rice, nori seaweed"
+      ],
+      "price": 15.01,
+      "category": "sushi"
+    },
+    {
+      "id": "bb1bbe20-5800-4f89-b348-1025051d223e",
+      "title": "Sliders with Assorted Toppings",
+      "subtitle": "Delicious Fried Sliders with Assorted Toppings, elevated with various cheeses, served to perfection.",
+      "ingredients": [
+        "mini beef patties",
+        "various cheeses",
+        "pickles",
+        "lettuce",
+        "special sauce"
+      ],
+      "price": 22.25,
+      "category": "burger"
+    }
+  ],
+  "511fac5e-1080-48c2-885b-0eaa40a9919d": [
+    {
+      "id": "c9c102e1-49a5-45c9-9092-ddaaca2ba4eb",
+      "title": "Mushroom Swiss Burger",
+      "subtitle": "Flavorful Saut\u00e9ed Mushroom Swiss Burger, featuring mushrooms, lettuce, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "mushrooms",
+        "swiss cheese",
+        "garlic aioli",
+        "lettuce"
+      ],
+      "price": 20.88,
+      "category": "burger"
+    }
+  ],
+  "af0a0f15-f5a7-475c-a086-6896b1936b87": [
+    {
+      "id": "2b7766bb-628b-4640-bb46-2ffc7b1c632c",
+      "title": "Crab Rangoon Roll",
+      "subtitle": "Indulgent Baked Crab Rangoon Roll, highlighting the rich flavor of crab meat or imitation crab, cream cheese, green onions, rice, nori seaweed, served to perfection.",
+      "ingredients": [
+        "crab meat or imitation crab, cream cheese, green onions, rice, nori seaweed"
+      ],
+      "price": 20.37,
+      "category": "sushi"
+    },
+    {
+      "id": "6f151f5e-39ba-4163-b54d-05e177a8e363",
+      "title": "Fried Egg Burger",
+      "subtitle": "Hearty Slow-cooked Fried Egg Burger, crafted with a touch of bacon, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "fried egg",
+        "bacon",
+        "cheddar cheese",
+        "lettuce"
+      ],
+      "price": 9.34,
+      "category": "burger"
+    },
+    {
+      "id": "6cd87a26-25c3-45a7-a62e-bba6e98d1c89",
+      "title": "Rainbow Pizza",
+      "subtitle": "Exquisite Steamed Rainbow Pizza, crafted with a touch of bell peppers of various colors, served to perfection.",
+      "ingredients": [
+        "bell peppers of various colors",
+        "mozzarella cheese",
+        "tomato sauce",
+        "onions",
+        "black olives"
+      ],
+      "price": 8.51,
+      "category": "pizza"
+    }
+  ],
+  "9cf28f05-7f16-4330-b4e1-13da6f1af08d": [
+    {
+      "id": "05bccd7e-a034-4429-8b46-e42ff7a82f1f",
+      "title": "Meat Lovers Pizza",
+      "subtitle": "Savory Grilled Meat Lovers Pizza, elevated with ham, served to perfection.",
+      "ingredients": [
+        "pepperoni",
+        "sausage",
+        "bacon",
+        "ham",
+        "mozzarella cheese"
+      ],
+      "price": 9.22,
+      "category": "pizza"
+    },
+    {
+      "id": "b75d4328-e024-4bd2-be20-c2278d12e985",
+      "title": "Pork Katsu Sushi",
+      "subtitle": "Savory Fried Pork Katsu Sushi, highlighting the rich flavor of pork loin cutlet,panko breadcrumbs,rice,nori seaweed,tonkatsu sauce, served to perfection.",
+      "ingredients": [
+        "pork loin cutlet,panko breadcrumbs,rice,nori seaweed,tonkatsu sauce"
+      ],
+      "price": 6.2,
+      "category": "sushi"
+    }
+  ],
+  "b04454ce-48e3-4f42-871e-5e2745bc2c54": [
+    {
+      "id": "dd6fb63b-0859-4919-8ced-3419946d9616",
+      "title": "Dragon Roll",
+      "subtitle": "Exquisite Slow-cooked Dragon Roll, crafted with a touch of eel, avocado, cucumber, rice, eel sauce, served to perfection.",
+      "ingredients": [
+        "eel, avocado, cucumber, rice, eel sauce"
+      ],
+      "price": 14.78,
+      "category": "sushi"
+    },
+    {
+      "id": "e0f79517-aad9-4821-b25f-a93451e1f6e2",
+      "title": "Cannoli",
+      "subtitle": "Indulgent Saut\u00e9ed Cannoli, featuring ricotta cheese, powdered sugar, served to perfection.",
+      "ingredients": [
+        "cannoli shells",
+        "ricotta cheese",
+        "powdered sugar",
+        "chocolate chips",
+        "vanilla extract"
+      ],
+      "price": 12.99,
+      "category": "italian"
+    }
+  ],
+  "8705bf35-c0f4-4e43-b064-98d47318cb12": [
+    {
+      "id": "890af985-2474-4de0-86a4-06d6dbce6ecf",
+      "title": "Trofie al Pesto Genovese",
+      "subtitle": "Delicious Charred Trofie al Pesto Genovese, featuring potatoes, basil pesto, served to perfection.",
+      "ingredients": [
+        "trofie pasta",
+        "basil pesto",
+        "green beans",
+        "potatoes",
+        "parmesan cheese"
+      ],
+      "price": 15.11,
+      "category": "italian"
+    }
+  ],
+  "969edee7-62a3-47b8-8df2-bfa28793c2e8": [
+    {
+      "id": "2c496704-af13-485b-a0bb-3ad9c6c79419",
+      "title": "Crab Rangoon Roll",
+      "subtitle": "Mouthwatering Grilled Crab Rangoon Roll, featuring crab meat or imitation crab, cream cheese, green onions, rice, nori seaweed, served to perfection.",
+      "ingredients": [
+        "crab meat or imitation crab, cream cheese, green onions, rice, nori seaweed"
+      ],
+      "price": 13.89,
+      "category": "sushi"
+    },
+    {
+      "id": "18261c77-14ee-4e56-a0f7-bb8ea7a88646",
+      "title": "Gnocchi al Pesto",
+      "subtitle": "Flavorful Slow-cooked Gnocchi al Pesto, elevated with pesto sauce, served to perfection.",
+      "ingredients": [
+        "gnocchi",
+        "pesto sauce",
+        "parmesan cheese",
+        "pine nuts",
+        "olive oil"
+      ],
+      "price": 7.58,
+      "category": "italian"
+    },
+    {
+      "id": "53932275-ebca-477f-b892-567d149cc123",
+      "title": "Meat Lovers Pizza",
+      "subtitle": "Delicious Baked Meat Lovers Pizza, crafted with a touch of sausage, served to perfection.",
+      "ingredients": [
+        "pepperoni",
+        "sausage",
+        "bacon",
+        "ham",
+        "mozzarella cheese"
+      ],
+      "price": 19.29,
+      "category": "pizza"
+    }
+  ],
+  "0e9ad638-d33b-4946-b1ee-58f658985f72": [
+    {
+      "id": "f4bd3a7c-6f25-4eb6-abcd-802ae4897768",
+      "title": "Veggie Pizza",
+      "subtitle": "Aromatic Grilled Veggie Pizza, featuring mozzarella cheese, black olives, served to perfection.",
+      "ingredients": [
+        "bell peppers",
+        "onions",
+        "mushrooms",
+        "black olives",
+        "mozzarella cheese"
+      ],
+      "price": 24.4,
+      "category": "pizza"
+    }
+  ],
+  "2713a141-1212-4e42-853a-a4a4f7ec777a": [
+    {
+      "id": "0e6aa730-8a0e-4128-a2dd-5f3415d5b054",
+      "title": "BBQ Meatlovers Pizza",
+      "subtitle": "Aromatic Grilled BBQ Meatlovers Pizza, highlighting the rich flavors of onions and BBQ sauce, served to perfection.",
+      "ingredients": [
+        "beef brisket",
+        "pulled pork",
+        "BBQ sauce",
+        "onions",
+        "cheddar cheese"
+      ],
+      "price": 9.82,
+      "category": "pizza"
+    },
+    {
+      "id": "bb852585-5242-48b7-9337-ad08c8a9378d",
+      "title": "Tuna Tataki",
+      "subtitle": "Savory Slow-cooked Tuna Tataki, highlighting the rich flavor of tuna steak, soy sauce, sesame seeds, green onions, wasabi, served to perfection.",
+      "ingredients": [
+        "tuna steak, soy sauce, sesame seeds, green onions, wasabi"
+      ],
+      "price": 7.27,
+      "category": "sushi"
+    },
+    {
+      "id": "e51dd64f-b9df-445e-90d4-8a71b9cce3f6",
+      "title": "Osso Buco alla Milanese",
+      "subtitle": "Mouthwatering Steamed Osso Buco alla Milanese, highlighting the rich flavors of onions and celery, served to perfection.",
+      "ingredients": [
+        "veal shanks",
+        "white wine",
+        "carrots",
+        "celery",
+        "onions"
+      ],
+      "price": 27.44,
+      "category": "italian"
+    }
+  ],
+  "ee6a380e-36ec-405e-b989-6be332644bfa": [
+    {
+      "id": "b8c387ad-daea-4a2d-8b41-54785e798b5c",
+      "title": "Miso Soup with Tofu",
+      "subtitle": "Delicious Saut\u00e9ed Miso Soup with Tofu, elevated with miso paste, tofu cubes, green onions, seaweed flakes (wakame), dashi broth, served to perfection.",
+      "ingredients": [
+        "miso paste, tofu cubes, green onions, seaweed flakes (wakame), dashi broth"
+      ],
+      "price": 10.03,
+      "category": "sushi"
+    },
+    {
+      "id": "67c3f1e3-301a-4f12-86a1-de8644b9e816",
+      "title": "Black Bean Burger",
+      "subtitle": "Indulgent Charred Black Bean Burger, elevated with cilantro, served to perfection.",
+      "ingredients": [
+        "black beans",
+        "quinoa",
+        "corn",
+        "cilantro",
+        "avocado"
+      ],
+      "price": 22.83,
+      "category": "burger"
+    },
+    {
+      "id": "1255e12b-b43d-4602-8456-fa7db843d27d",
+      "title": "Bruschetta al Pomodoro",
+      "subtitle": "Hearty Slow-cooked Bruschetta al Pomodoro, highlighting the rich flavors of tomatoes and basil, served to perfection.",
+      "ingredients": [
+        "ciabatta bread",
+        "tomatoes",
+        "garlic",
+        "basil",
+        "olive oil"
+      ],
+      "price": 13.03,
+      "category": "italian"
+    }
+  ],
+  "505840dc-7dc1-4f44-997e-5e0e48b4a688": [
+    {
+      "id": "dc39f416-e830-4ce9-8b32-dbf429c5dbbe",
+      "title": "Potato & Rosemary Pizza",
+      "subtitle": "Delicious Charred Potato & Rosemary Pizza, highlighting the rich flavors of sea salt and olive oil, served to perfection.",
+      "ingredients": [
+        "potatoes",
+        "rosemary",
+        "mozzarella cheese",
+        "olive oil",
+        "sea salt"
+      ],
+      "price": 23.55,
+      "category": "pizza"
+    },
+    {
+      "id": "41de0f7a-d0b5-473f-895f-7116e846ffd9",
+      "title": "BBQ Bacon Burger",
+      "subtitle": "Flavorful Saut\u00e9ed BBQ Bacon Burger, elevated with cheddar cheese, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "BBQ sauce",
+        "bacon",
+        "onion rings",
+        "cheddar cheese"
+      ],
+      "price": 25.86,
+      "category": "burger"
+    }
+  ],
+  "25f016d7-5a1b-4676-9307-1096abf2f3ef": [
+    {
+      "id": "dc56d0a5-4a3c-4cf3-a4cc-7adaf95b812b",
+      "title": "Meat Lovers Pizza",
+      "subtitle": "Aromatic Saut\u00e9ed Meat Lovers Pizza, highlighting the rich flavors of sausage and mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "pepperoni",
+        "sausage",
+        "bacon",
+        "ham",
+        "mozzarella cheese"
+      ],
+      "price": 29.13,
+      "category": "pizza"
+    }
+  ],
+  "b8e8488d-b6ba-4d0c-804b-403982cc2ba6": [
+    {
+      "id": "cbe0e9fe-9ee7-4e6b-9c39-ebd75212b11e",
+      "title": "Spicy Tuna Roll",
+      "subtitle": "Exquisite Saut\u00e9ed Spicy Tuna Roll, crafted with a touch of tuna, spicy mayo, cucumber, rice, nori seaweed, served to perfection.",
+      "ingredients": [
+        "tuna, spicy mayo, cucumber, rice, nori seaweed"
+      ],
+      "price": 12.33,
+      "category": "sushi"
+    }
+  ],
+  "6f11b85e-ceef-418f-921c-30f43ea6dcc6": [
+    {
+      "id": "587b8ba0-6a7d-4805-a2eb-2bc27a313410",
+      "title": "Sausage & Kale Pizza",
+      "subtitle": "Hearty Grilled Sausage & Kale Pizza, highlighting the rich flavors of tomato sauce and mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "Italian sausage",
+        "kale leaves",
+        "mozzarella cheese",
+        "tomato sauce",
+        "olive oil"
+      ],
+      "price": 21.97,
+      "category": "pizza"
+    },
+    {
+      "id": "2f74871a-a2d0-41d9-beaa-3fc27a858d12",
+      "title": "Tiramisu",
+      "subtitle": "Exquisite Saut\u00e9ed Tiramisu, crafted with a touch of mascarpone cheese, served to perfection.",
+      "ingredients": [
+        "ladyfingers",
+        "mascarpone cheese",
+        "espresso",
+        "cocoa powder",
+        "sugar"
+      ],
+      "price": 26.82,
+      "category": "italian"
+    }
+  ],
+  "31ee8990-7b38-44b1-907d-cccaed25af81": [
+    {
+      "id": "bb28d529-c554-40c5-8a02-30f64cf1f04b",
+      "title": "Osso Buco alla Milanese",
+      "subtitle": "Hearty Slow-cooked Osso Buco alla Milanese, elevated with veal shanks, served to perfection.",
+      "ingredients": [
+        "veal shanks",
+        "white wine",
+        "carrots",
+        "celery",
+        "onions"
+      ],
+      "price": 15.36,
+      "category": "italian"
+    }
+  ],
+  "8afd9d7e-a450-4b0f-9d05-76907c6b3674": [
+    {
+      "id": "a288a36e-a190-4e21-9bdf-cc7028923b7f",
+      "title": "Pappa al Pomodoro",
+      "subtitle": "Aromatic Baked Pappa al Pomodoro, featuring olive oil, basil, served to perfection.",
+      "ingredients": [
+        "stale bread",
+        "ripe tomatoes",
+        "garlic",
+        "basil",
+        "olive oil"
+      ],
+      "price": 19.61,
+      "category": "italian"
+    },
+    {
+      "id": "165de7d6-2505-4c59-9396-c13d542bb77f",
+      "title": "Four Cheese Pizza",
+      "subtitle": "Delicious Baked Four Cheese Pizza, featuring olive oil, ricotta cheese, served to perfection.",
+      "ingredients": [
+        "mozzarella cheese",
+        "gorgonzola cheese",
+        "parmesan cheese",
+        "ricotta cheese",
+        "olive oil"
+      ],
+      "price": 23.22,
+      "category": "pizza"
+    }
+  ],
+  "2c2a1195-5ba9-4f75-8447-04f69afaa747": [
+    {
+      "id": "0fc7e58b-e2d1-4c2c-bbc9-fa7b9b60e63e",
+      "title": "Turkey Burger",
+      "subtitle": "Indulgent Roasted Turkey Burger, featuring chipotle mayo, turkey patty, served to perfection.",
+      "ingredients": [
+        "turkey patty",
+        "avocado",
+        "lettuce",
+        "tomato",
+        "chipotle mayo"
+      ],
+      "price": 26.66,
+      "category": "burger"
+    }
+  ],
+  "b6e0f88c-60b7-4e99-94ce-fb5fa6107b83": [
+    {
+      "id": "dd24d1e6-d7d5-459c-8e6c-64444e8540bc",
+      "title": "Arancini",
+      "subtitle": "Savory Roasted Arancini, featuring risotto rice, breadcrumbs, served to perfection.",
+      "ingredients": [
+        "risotto rice",
+        "mozzarella cheese",
+        "peas",
+        "breadcrumbs",
+        "marinara sauce"
+      ],
+      "price": 22.72,
+      "category": "italian"
+    }
+  ],
+  "4d4c0037-042f-4204-b04c-18e00f5c3057": [
+    {
+      "id": "2c9e1910-17e5-4e41-ab71-ddefa8ed97b1",
+      "title": "Greek Lamb Burger",
+      "subtitle": "Mouthwatering Steamed Greek Lamb Burger, crafted with a touch of red onion, served to perfection.",
+      "ingredients": [
+        "lamb patty",
+        "feta cheese",
+        "tzatziki sauce",
+        "red onion",
+        "cucumber"
+      ],
+      "price": 12.86,
+      "category": "burger"
+    },
+    {
+      "id": "748d02f2-02a7-482e-9eb7-6db3432218c3",
+      "title": "Gnocchi al Pesto",
+      "subtitle": "Savory Grilled Gnocchi al Pesto, featuring parmesan cheese, pesto sauce, served to perfection.",
+      "ingredients": [
+        "gnocchi",
+        "pesto sauce",
+        "parmesan cheese",
+        "pine nuts",
+        "olive oil"
+      ],
+      "price": 28.44,
+      "category": "italian"
+    }
+  ],
+  "4d32554f-9938-4d68-bc1b-e1151dc42538": [
+    {
+      "id": "b65c0240-2a84-4ad0-a3e9-8eedff755b4d",
+      "title": "Lasagna",
+      "subtitle": "Indulgent Steamed Lasagna, elevated with mozzarella cheese, served to perfection.",
+      "ingredients": [
+        "lasagna noodles",
+        "ricotta cheese",
+        "mozzarella cheese",
+        "ground beef",
+        "tomato sauce"
+      ],
+      "price": 11.54,
+      "category": "italian"
+    }
+  ],
+  "e1ee2094-6fa2-4bc3-a6ed-c80d412a9f12": [
+    {
+      "id": "1a53532b-10a6-4581-beaa-0525f288cd69",
+      "title": "Cucumber Roll",
+      "subtitle": "Exquisite Roasted Cucumber Roll, crafted with a touch of cucumber,sushi rice,nori seaweed,sesame seeds,dipping soy sauce, served to perfection.",
+      "ingredients": [
+        "cucumber,sushi rice,nori seaweed,sesame seeds,dipping soy sauce"
+      ],
+      "price": 8.01,
+      "category": "sushi"
+    },
+    {
+      "id": "fdcda7fd-cb60-40e5-81e4-cc52fbcd9804",
+      "title": "Polenta con Salsicce",
+      "subtitle": "Savory Baked Polenta con Salsicce, highlighting the rich flavors of garlic and onions, served to perfection.",
+      "ingredients": [
+        "polenta",
+        "Italian sausage",
+        "onions",
+        "garlic",
+        "parmesan cheese"
+      ],
+      "price": 7.54,
+      "category": "italian"
+    }
+  ],
+  "81c27781-792e-4c4c-a800-4ab8b260a34c": [
+    {
+      "id": "1bdf8330-deb1-4d80-900b-2837a4493920",
+      "title": "Avocado Burger",
+      "subtitle": "Aromatic Fried Avocado Burger, elevated with tomato, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "avocado",
+        "pepper jack cheese",
+        "lettuce",
+        "tomato"
+      ],
+      "price": 22.2,
+      "category": "burger"
+    },
+    {
+      "id": "f934b64f-3893-4387-b393-fb56d49f2c44",
+      "title": "Gnocchi al Pesto",
+      "subtitle": "Exquisite Grilled Gnocchi al Pesto, highlighting the rich flavors of parmesan cheese and gnocchi, served to perfection.",
+      "ingredients": [
+        "gnocchi",
+        "pesto sauce",
+        "parmesan cheese",
+        "pine nuts",
+        "olive oil"
+      ],
+      "price": 15.25,
+      "category": "italian"
+    },
+    {
+      "id": "a4314230-7b1e-4b81-96e2-d84aa47f467a",
+      "title": "Spicy Salmon Roll",
+      "subtitle": "Aromatic Roasted Spicy Salmon Roll, highlighting the rich flavor of salmon,tobiko (fish roe),spicy mayo,cucumber,nori seaweed, served to perfection.",
+      "ingredients": [
+        "salmon,tobiko (fish roe),spicy mayo,cucumber,nori seaweed"
+      ],
+      "price": 28.43,
+      "category": "sushi"
+    }
+  ],
+  "fb2827bb-66ec-444b-8f68-a7d4e8dfe18e": [
+    {
+      "id": "ed12de4b-877c-4715-bc12-eaeba8da810d",
+      "title": "Avocado Burger",
+      "subtitle": "Exquisite Grilled Avocado Burger, highlighting the rich flavors of beef patty and tomato, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "avocado",
+        "pepper jack cheese",
+        "lettuce",
+        "tomato"
+      ],
+      "price": 20.47,
+      "category": "burger"
+    },
+    {
+      "id": "89637a5d-fcb5-4715-b4c5-13b86870c4bc",
+      "title": "Tuna Tataki",
+      "subtitle": "Aromatic Baked Tuna Tataki, elevated with tuna steak, soy sauce, sesame seeds, green onions, wasabi, served to perfection.",
+      "ingredients": [
+        "tuna steak, soy sauce, sesame seeds, green onions, wasabi"
+      ],
+      "price": 16.86,
+      "category": "sushi"
+    },
+    {
+      "id": "3c376c74-32a5-4a23-8a80-b4e0722521eb",
+      "title": "Bruschetta al Pomodoro",
+      "subtitle": "Delicious Saut\u00e9ed Bruschetta al Pomodoro, elevated with basil, served to perfection.",
+      "ingredients": [
+        "ciabatta bread",
+        "tomatoes",
+        "garlic",
+        "basil",
+        "olive oil"
+      ],
+      "price": 24.69,
+      "category": "italian"
+    }
+  ],
+  "76cde1a8-aaff-4067-ad34-64c9fa650e91": [
+    {
+      "id": "43104c51-d3de-4955-bae1-06a6a5202df8",
+      "title": "Sliders with Assorted Toppings",
+      "subtitle": "Exquisite Grilled Sliders with Assorted Toppings, featuring lettuce, special sauce, served to perfection.",
+      "ingredients": [
+        "mini beef patties",
+        "various cheeses",
+        "pickles",
+        "lettuce",
+        "special sauce"
+      ],
+      "price": 25.06,
+      "category": "burger"
+    },
+    {
+      "id": "77e6c1aa-2a34-4d9b-87f3-ab50b8acc5ca",
+      "title": "Pepperoni Pizza",
+      "subtitle": "Exquisite Charred Pepperoni Pizza, elevated with olive oil, served to perfection.",
+      "ingredients": [
+        "pepperoni",
+        "mozzarella cheese",
+        "tomato sauce",
+        "olive oil",
+        "oregano"
+      ],
+      "price": 16.71,
+      "category": "pizza"
+    },
+    {
+      "id": "869da6c2-2576-40a2-b815-fd67d52f3d8a",
+      "title": "Tiramisu",
+      "subtitle": "Indulgent Grilled Tiramisu, featuring mascarpone cheese, cocoa powder, served to perfection.",
+      "ingredients": [
+        "ladyfingers",
+        "mascarpone cheese",
+        "espresso",
+        "cocoa powder",
+        "sugar"
+      ],
+      "price": 19.13,
+      "category": "italian"
+    }
+  ],
+  "afc133d8-0788-4f07-af11-b0638ff933b5": [
+    {
+      "id": "b3655bf3-fb98-4221-aa5f-2b5c3658be0f",
+      "title": "Trofie al Pesto Genovese",
+      "subtitle": "Flavorful Charred Trofie al Pesto Genovese, elevated with basil pesto, served to perfection.",
+      "ingredients": [
+        "trofie pasta",
+        "basil pesto",
+        "green beans",
+        "potatoes",
+        "parmesan cheese"
+      ],
+      "price": 25.63,
+      "category": "italian"
+    }
+  ],
+  "ebbfaeec-fac7-4548-90da-87503d8cc41c": [
+    {
+      "id": "1efc9a17-a091-4ffa-b1e2-1360681a3a46",
+      "title": "Cannoli",
+      "subtitle": "Savory Grilled Cannoli, featuring powdered sugar, vanilla extract, served to perfection.",
+      "ingredients": [
+        "cannoli shells",
+        "ricotta cheese",
+        "powdered sugar",
+        "chocolate chips",
+        "vanilla extract"
+      ],
+      "price": 21.66,
+      "category": "italian"
+    },
+    {
+      "id": "5b990509-d985-4719-a313-001c0bab04dd",
+      "title": "Fried Egg Burger",
+      "subtitle": "Mouthwatering Saut\u00e9ed Fried Egg Burger, elevated with cheddar cheese, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "fried egg",
+        "bacon",
+        "cheddar cheese",
+        "lettuce"
+      ],
+      "price": 21.15,
+      "category": "burger"
+    }
+  ],
+  "c40caad9-94f1-451d-827d-c7930afa7fcb": [
+    {
+      "id": "0c69fd05-d804-4475-99ec-0c6739ad8d7f",
+      "title": "Lasagna",
+      "subtitle": "Aromatic Saut\u00e9ed Lasagna, featuring tomato sauce, lasagna noodles, served to perfection.",
+      "ingredients": [
+        "lasagna noodles",
+        "ricotta cheese",
+        "mozzarella cheese",
+        "ground beef",
+        "tomato sauce"
+      ],
+      "price": 12.81,
+      "category": "italian"
+    },
+    {
+      "id": "05753417-1093-4fb1-84ae-29dce6981561",
+      "title": "Mushroom Swiss Burger",
+      "subtitle": "Hearty Roasted Mushroom Swiss Burger, featuring garlic aioli, beef patty, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "mushrooms",
+        "swiss cheese",
+        "garlic aioli",
+        "lettuce"
+      ],
+      "price": 15.53,
+      "category": "burger"
+    },
+    {
+      "id": "457abf05-0be3-47ff-a59d-e3ec487732b0",
+      "title": "Vegetable Roll",
+      "subtitle": "Indulgent Steamed Vegetable Roll, crafted with a touch of cucumber, avocado, carrot, rice, nori seaweed, served to perfection.",
+      "ingredients": [
+        "cucumber, avocado, carrot, rice, nori seaweed"
+      ],
+      "price": 20.52,
+      "category": "sushi"
+    }
+  ],
+  "9879f800-84f7-498d-bb12-34236f6e55b5": [
+    {
+      "id": "0a686574-591b-4571-afd2-943946deb9c1",
+      "title": "BBQ Bacon Burger",
+      "subtitle": "Savory Steamed BBQ Bacon Burger, elevated with BBQ sauce, served to perfection.",
+      "ingredients": [
+        "beef patty",
+        "BBQ sauce",
+        "bacon",
+        "onion rings",
+        "cheddar cheese"
+      ],
+      "price": 12.09,
+      "category": "burger"
+    }
+  ]
+}

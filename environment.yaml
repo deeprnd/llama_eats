@@ -1,0 +1,23 @@
+name: llama-eats-server
+dependencies:
+- conda-forge::python=3.12.8
+- falcon
+- pydantic
+- langchain
+- llama-index
+- faiss-cpu
+- python-dotenv
+- sentence-transformers
+- pytorch-cpu
+- transformers
+- requests
+- numpy=1.26.4
+- scipy
+- scikit-learn
+- accelerate
+- pip
+- pytest
+- pip:
+  - langchain_community
+  - langchain_huggingface
+  - llama-cpp-python

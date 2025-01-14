@@ -1,0 +1,4838 @@
+[
+  {
+    "store_id": "1ba160da-93e0-45c9-a6e0-61356bdf7612",
+    "name": "Savory Italian House",
+    "address": "444 Main St., City3",
+    "category_ids": [
+      "burger",
+      "sushi"
+    ],
+    "proximity": 4.93,
+    "service_availability": [
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "23:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "00c193b7-8915-447b-b5ea-9bd118437ee9",
+    "name": "Tasty American House",
+    "address": "924 Main St., City5",
+    "category_ids": [
+      "pizza",
+      "burger"
+    ],
+    "proximity": 7.79,
+    "service_availability": [
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "14:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "61668766-05f2-4bc2-b564-784da539a120",
+    "name": "Golden Mexican Kitchen",
+    "address": "280 Main St., City2",
+    "category_ids": [
+      "italian",
+      "burger",
+      "pizza"
+    ],
+    "proximity": 0.49,
+    "service_availability": [
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "18:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "7ff6eb30-741e-4cfd-8ed9-ce650e63ddf3",
+    "name": "Lush Mediterranean Cafe",
+    "address": "715 Main St., City2",
+    "category_ids": [
+      "burger",
+      "sushi",
+      "pizza"
+    ],
+    "proximity": 5.03,
+    "service_availability": [
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "16:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "18:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "b573860a-185f-4c53-ab5f-cfda32dfcc08",
+    "name": "Delicious Mediterranean Eatery",
+    "address": "922 Main St., City6",
+    "category_ids": [
+      "italian",
+      "pizza"
+    ],
+    "proximity": 8.71,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "16:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "18:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "28f01180-37a2-43b1-bd81-bbb68e8a8577",
+    "name": "Elegant American House",
+    "address": "154 Main St., City1",
+    "category_ids": [
+      "italian"
+    ],
+    "proximity": 3.84,
+    "service_availability": [
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "17:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "25e22ba2-920a-4564-b4b4-52dade8a3b39",
+    "name": "Vibrant Indian Oven",
+    "address": "828 Main St., City9",
+    "category_ids": [
+      "burger",
+      "italian"
+    ],
+    "proximity": 2.45,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "21:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "9d98695a-63e2-4814-bee6-10ccb224d5f5",
+    "name": "Golden American Eatery",
+    "address": "505 Main St., City7",
+    "category_ids": [
+      "pizza",
+      "burger",
+      "sushi"
+    ],
+    "proximity": 2.1,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "14:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "5243bc14-1d2c-46c6-b981-a66533b996c4",
+    "name": "Lush Japanese House",
+    "address": "907 Main St., City10",
+    "category_ids": [
+      "burger",
+      "sushi"
+    ],
+    "proximity": 2.14,
+    "service_availability": [
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "10:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "19:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "2af5edd6-fdcb-437b-8969-917d2ee204a8",
+    "name": "Lush Mediterranean Bistro",
+    "address": "263 Main St., City2",
+    "category_ids": [
+      "burger",
+      "pizza"
+    ],
+    "proximity": 7.87,
+    "service_availability": [
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "13:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "3ad1271c-b0d8-413a-bfbe-aab513f76d8c",
+    "name": "Elegant Japanese House",
+    "address": "568 Main St., City2",
+    "category_ids": [
+      "burger",
+      "italian"
+    ],
+    "proximity": 6.76,
+    "service_availability": [
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "22:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "dbecb049-3501-438f-bedb-aa0bd6e31757",
+    "name": "Spicy Thai House",
+    "address": "592 Main St., City5",
+    "category_ids": [
+      "burger",
+      "sushi",
+      "pizza"
+    ],
+    "proximity": 7.48,
+    "service_availability": [
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "16:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "0e0ff1a1-8fc1-4429-b546-1e78f43781fa",
+    "name": "Elegant Mediterranean Kitchen",
+    "address": "717 Main St., City1",
+    "category_ids": [
+      "pizza"
+    ],
+    "proximity": 4.13,
+    "service_availability": [
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "23:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "343c37c0-8029-4909-aaa1-a330914a71cc",
+    "name": "Golden Mediterranean Oven",
+    "address": "870 Main St., City9",
+    "category_ids": [
+      "pizza",
+      "sushi"
+    ],
+    "proximity": 8.48,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "17:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "71898cc7-7ce1-4898-9f46-6b953d4cbf2e",
+    "name": "Spicy Mediterranean Tavern",
+    "address": "337 Main St., City7",
+    "category_ids": [
+      "pizza",
+      "sushi"
+    ],
+    "proximity": 9.72,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "13:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "a3a7f95b-3a76-4a42-8718-6f3e0b908cbc",
+    "name": "Vibrant Japanese Eatery",
+    "address": "229 Main St., City2",
+    "category_ids": [
+      "pizza",
+      "italian"
+    ],
+    "proximity": 0.8,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "16:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "16:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "d9895b8d-71b3-47b6-a864-88357fc57ee9",
+    "name": "Rustic Indian Bar",
+    "address": "209 Main St., City10",
+    "category_ids": [
+      "italian",
+      "burger",
+      "pizza"
+    ],
+    "proximity": 2.31,
+    "service_availability": [
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "16:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "83610a9a-8cfa-4188-907f-94223c567acc",
+    "name": "Lush Indian Tavern",
+    "address": "242 Main St., City2",
+    "category_ids": [
+      "burger",
+      "pizza",
+      "sushi"
+    ],
+    "proximity": 6.95,
+    "service_availability": [
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "22:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "4a21dd64-2fce-4205-be21-cd9e00159b77",
+    "name": "Spicy French Bistro",
+    "address": "254 Main St., City3",
+    "category_ids": [
+      "pizza",
+      "sushi",
+      "italian"
+    ],
+    "proximity": 7.15,
+    "service_availability": [
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "09:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "3246ff6d-bf88-4de5-8a21-c70ee2e3e566",
+    "name": "Delicious Mexican Cafe",
+    "address": "319 Main St., City6",
+    "category_ids": [
+      "burger",
+      "sushi"
+    ],
+    "proximity": 2.12,
+    "service_availability": [
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "23:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "9ba58403-9f83-44fe-9173-076db02b931e",
+    "name": "Rustic Italian Tavern",
+    "address": "326 Main St., City4",
+    "category_ids": [
+      "italian",
+      "burger",
+      "pizza"
+    ],
+    "proximity": 5.88,
+    "service_availability": [
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "21:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "251531bb-6400-4819-bae6-ce98baf87089",
+    "name": "Elegant Thai Diner",
+    "address": "826 Main St., City6",
+    "category_ids": [
+      "pizza"
+    ],
+    "proximity": 8.91,
+    "service_availability": [
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "16:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "14:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "8fba6675-c8fb-4086-ad35-7461343c1401",
+    "name": "Tasty Thai Grill",
+    "address": "960 Main St., City6",
+    "category_ids": [
+      "burger",
+      "italian",
+      "pizza"
+    ],
+    "proximity": 0.8,
+    "service_availability": [
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "14:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "65d0ca6e-e91d-4c28-9555-134cf9303609",
+    "name": "Vibrant Thai Tavern",
+    "address": "425 Main St., City1",
+    "category_ids": [
+      "sushi",
+      "burger"
+    ],
+    "proximity": 9.1,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "20:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "2d8b87fb-7127-4e04-b7e3-7fd7366bfd0e",
+    "name": "Golden Japanese Kitchen",
+    "address": "603 Main St., City4",
+    "category_ids": [
+      "italian",
+      "burger"
+    ],
+    "proximity": 7.73,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "12:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "79c91172-41e5-4521-b8d6-30c9812f3794",
+    "name": "Rustic Indian Kitchen",
+    "address": "698 Main St., City5",
+    "category_ids": [
+      "italian"
+    ],
+    "proximity": 4.01,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "22:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "00f6bd8c-2044-4cfa-a25e-866d4f865568",
+    "name": "Cozy Korean House",
+    "address": "829 Main St., City7",
+    "category_ids": [
+      "pizza"
+    ],
+    "proximity": 6.75,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "17:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "8689389a-9460-4945-95a7-d5497bd19193",
+    "name": "Vibrant French Kitchen",
+    "address": "425 Main St., City8",
+    "category_ids": [
+      "pizza",
+      "sushi"
+    ],
+    "proximity": 8.07,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "17:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "fb20a423-b682-42b0-92c0-f0c5e4c4d755",
+    "name": "Rustic Mexican Grill",
+    "address": "266 Main St., City5",
+    "category_ids": [
+      "pizza"
+    ],
+    "proximity": 3.95,
+    "service_availability": [
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "19:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "bd28046c-652b-486e-9b22-95ed18ebae20",
+    "name": "Savory Chinese House",
+    "address": "48 Main St., City10",
+    "category_ids": [
+      "sushi",
+      "pizza",
+      "italian"
+    ],
+    "proximity": 2.74,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "10:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "12:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "fca2b4c7-f88c-4e70-b5f0-d6c349bdb8d8",
+    "name": "Spicy Chinese Grill",
+    "address": "639 Main St., City4",
+    "category_ids": [
+      "pizza"
+    ],
+    "proximity": 8.44,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "15:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "d052b594-7474-4c58-ba29-b4343729ed2d",
+    "name": "Lush American Bar",
+    "address": "772 Main St., City3",
+    "category_ids": [
+      "italian",
+      "burger",
+      "sushi"
+    ],
+    "proximity": 3.96,
+    "service_availability": [
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "16:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "23:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "9eb356ef-551a-4d4d-b620-225fa2985574",
+    "name": "Rustic French Cafe",
+    "address": "732 Main St., City1",
+    "category_ids": [
+      "burger",
+      "pizza",
+      "sushi"
+    ],
+    "proximity": 4.93,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "19:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "2b1d396e-89cb-4aaa-b0c1-99ebc492b618",
+    "name": "Elegant Japanese Oven",
+    "address": "801 Main St., City8",
+    "category_ids": [
+      "burger",
+      "sushi"
+    ],
+    "proximity": 2.59,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "23:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "1c85e0b8-abac-44e9-bde5-c29cf9649dbe",
+    "name": "Rustic Italian Tavern",
+    "address": "20 Main St., City3",
+    "category_ids": [
+      "pizza",
+      "italian",
+      "sushi"
+    ],
+    "proximity": 0.24,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "13:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "2ea17230-7c47-405c-a497-7b966b28b2c4",
+    "name": "Vibrant American Eatery",
+    "address": "855 Main St., City7",
+    "category_ids": [
+      "pizza"
+    ],
+    "proximity": 8.62,
+    "service_availability": [
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "16:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "15:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "2d85d856-712d-4458-8487-4af1219aa27b",
+    "name": "Spicy Mexican Grill",
+    "address": "606 Main St., City10",
+    "category_ids": [
+      "burger",
+      "italian",
+      "sushi"
+    ],
+    "proximity": 8.48,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "21:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "747ba4c9-4f83-43c2-b194-2abb4f8bb161",
+    "name": "Tasty Thai Bistro",
+    "address": "459 Main St., City8",
+    "category_ids": [
+      "burger",
+      "pizza",
+      "sushi"
+    ],
+    "proximity": 6.19,
+    "service_availability": [
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "19:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "06f80cef-beb3-4669-be49-d5c524e45efe",
+    "name": "Tasty French Diner",
+    "address": "75 Main St., City6",
+    "category_ids": [
+      "italian",
+      "sushi"
+    ],
+    "proximity": 2.55,
+    "service_availability": [
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "10:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "18:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "bcc36a99-dc85-4927-9056-23db326f4f35",
+    "name": "Spicy Korean Tavern",
+    "address": "873 Main St., City7",
+    "category_ids": [
+      "pizza",
+      "burger",
+      "sushi"
+    ],
+    "proximity": 9.44,
+    "service_availability": [
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "16:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "16:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "e19400db-2cf9-4d56-845b-39f54939e92c",
+    "name": "Cozy French Diner",
+    "address": "294 Main St., City10",
+    "category_ids": [
+      "pizza",
+      "sushi",
+      "burger"
+    ],
+    "proximity": 4.67,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "22:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "01ff726e-0e3d-4734-b90d-9c944f063ec3",
+    "name": "Vibrant Korean House",
+    "address": "138 Main St., City9",
+    "category_ids": [
+      "sushi",
+      "burger",
+      "pizza"
+    ],
+    "proximity": 1.45,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "10:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "13:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "77a1751d-8939-4692-ba23-be0ad72bb3e2",
+    "name": "Tasty French Cafe",
+    "address": "724 Main St., City8",
+    "category_ids": [
+      "burger",
+      "pizza"
+    ],
+    "proximity": 3.92,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "11:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "6ba24e76-e8d0-4fc7-a3ed-bfc8280bca87",
+    "name": "Spicy American Tavern",
+    "address": "443 Main St., City10",
+    "category_ids": [
+      "pizza",
+      "sushi"
+    ],
+    "proximity": 6.71,
+    "service_availability": [
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "14:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "147e0422-7b09-4008-9b2a-2d0c9073d5b5",
+    "name": "Golden Chinese Eatery",
+    "address": "843 Main St., City8",
+    "category_ids": [
+      "burger",
+      "pizza"
+    ],
+    "proximity": 2.01,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "11:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "ab57ee00-77f0-469f-aa85-79f0e51028aa",
+    "name": "Cozy Thai House",
+    "address": "925 Main St., City2",
+    "category_ids": [
+      "italian"
+    ],
+    "proximity": 3.66,
+    "service_availability": [
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "13:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "17c19570-8785-44e0-8de5-a8050bc221dc",
+    "name": "Tasty Chinese Kitchen",
+    "address": "507 Main St., City3",
+    "category_ids": [
+      "sushi",
+      "pizza"
+    ],
+    "proximity": 9.71,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "21:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "7f950124-6e9d-4300-9bb1-4b3b8d1c735e",
+    "name": "Golden Korean Oven",
+    "address": "916 Main St., City6",
+    "category_ids": [
+      "sushi"
+    ],
+    "proximity": 0.25,
+    "service_availability": [
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "16:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "74aa62a9-2efb-4189-8f5e-1509718421f7",
+    "name": "Golden Mediterranean Kitchen",
+    "address": "618 Main St., City1",
+    "category_ids": [
+      "burger",
+      "italian",
+      "pizza"
+    ],
+    "proximity": 7.97,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "17:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "9295cf34-d249-46d8-ae31-63ec6d2f2a1f",
+    "name": "Rustic French Bistro",
+    "address": "749 Main St., City4",
+    "category_ids": [
+      "pizza",
+      "italian",
+      "burger"
+    ],
+    "proximity": 8.2,
+    "service_availability": [
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "23:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "06ea21ce-5f02-482a-8626-a9b2202d639f",
+    "name": "Golden Mexican Oven",
+    "address": "946 Main St., City7",
+    "category_ids": [
+      "pizza",
+      "burger"
+    ],
+    "proximity": 0.61,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "22:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "50c33c8c-a03a-47c8-89e6-1b6957ecb540",
+    "name": "Savory American Cafe",
+    "address": "702 Main St., City8",
+    "category_ids": [
+      "pizza",
+      "burger"
+    ],
+    "proximity": 0.74,
+    "service_availability": [
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "17:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "c2c9e57e-e618-43b1-a48b-2a9ccdcffc22",
+    "name": "Spicy Korean House",
+    "address": "774 Main St., City4",
+    "category_ids": [
+      "sushi"
+    ],
+    "proximity": 7.61,
+    "service_availability": [
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "16:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "23:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "09c17850-2971-4c96-9424-4c2b09e2755b",
+    "name": "Golden Mexican Cafe",
+    "address": "61 Main St., City8",
+    "category_ids": [
+      "burger",
+      "italian",
+      "pizza"
+    ],
+    "proximity": 2.82,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "22:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "25e231f4-ab60-4559-ad23-85db4c8945bc",
+    "name": "Lush Korean Bistro",
+    "address": "720 Main St., City1",
+    "category_ids": [
+      "italian"
+    ],
+    "proximity": 8.82,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "23:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "217bc1e0-6575-48ac-bccc-b742b95c720d",
+    "name": "Lush Chinese Kitchen",
+    "address": "644 Main St., City3",
+    "category_ids": [
+      "pizza",
+      "burger"
+    ],
+    "proximity": 5.96,
+    "service_availability": [
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "17:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "a623d8e1-1d42-4f7c-b48c-b0f24021091e",
+    "name": "Savory French Bar",
+    "address": "568 Main St., City3",
+    "category_ids": [
+      "italian",
+      "pizza"
+    ],
+    "proximity": 6.62,
+    "service_availability": [
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "11:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "31839c92-b24f-494c-afcb-64a79c98663a",
+    "name": "Vibrant Japanese House",
+    "address": "943 Main St., City9",
+    "category_ids": [
+      "sushi",
+      "italian"
+    ],
+    "proximity": 9.06,
+    "service_availability": [
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "13:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "2a0b2189-6671-4ba5-af66-e28b92a70718",
+    "name": "Spicy Japanese Grill",
+    "address": "344 Main St., City7",
+    "category_ids": [
+      "sushi",
+      "pizza"
+    ],
+    "proximity": 3.38,
+    "service_availability": [
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "19:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "f294671b-9d52-4ded-a6ee-daaebf8f8e22",
+    "name": "Golden Japanese Bar",
+    "address": "806 Main St., City8",
+    "category_ids": [
+      "pizza",
+      "italian",
+      "sushi"
+    ],
+    "proximity": 8.09,
+    "service_availability": [
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "14:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "6ab1142a-cff6-48eb-bc53-2408bee1bd92",
+    "name": "Savory Mexican Cafe",
+    "address": "789 Main St., City1",
+    "category_ids": [
+      "sushi",
+      "pizza",
+      "burger"
+    ],
+    "proximity": 4.04,
+    "service_availability": [
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "19:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "2428698b-7264-488b-b04d-b728efa72ebc",
+    "name": "Delicious Thai Eatery",
+    "address": "901 Main St., City10",
+    "category_ids": [
+      "burger",
+      "pizza"
+    ],
+    "proximity": 2.43,
+    "service_availability": [
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "16:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "10:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "17:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "f0bb391b-e3b6-48b0-9b40-b7a4ba19558f",
+    "name": "Spicy Indian Eatery",
+    "address": "561 Main St., City2",
+    "category_ids": [
+      "sushi"
+    ],
+    "proximity": 1.05,
+    "service_availability": [
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "14:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "117eb9a5-3770-4a54-8ddb-042ba43365cb",
+    "name": "Vibrant Chinese House",
+    "address": "544 Main St., City1",
+    "category_ids": [
+      "pizza",
+      "burger"
+    ],
+    "proximity": 0.46,
+    "service_availability": [
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "16:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "14:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "52f51d50-9064-4469-9a3b-831938b79117",
+    "name": "Rustic Korean Tavern",
+    "address": "872 Main St., City7",
+    "category_ids": [
+      "sushi",
+      "italian"
+    ],
+    "proximity": 6.32,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "13:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "fec4fb90-c694-40e8-9784-c369b786e839",
+    "name": "Delicious Thai Grill",
+    "address": "906 Main St., City7",
+    "category_ids": [
+      "pizza",
+      "sushi",
+      "italian"
+    ],
+    "proximity": 6.39,
+    "service_availability": [
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "16:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "892dc265-2364-4d61-8a79-88deb2b73aa9",
+    "name": "Spicy Korean Tavern",
+    "address": "809 Main St., City3",
+    "category_ids": [
+      "italian",
+      "sushi"
+    ],
+    "proximity": 8.82,
+    "service_availability": [
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "20:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "5a23a378-7f7d-4c5f-aab1-2ce8d79cb64c",
+    "name": "Spicy Chinese Eatery",
+    "address": "764 Main St., City4",
+    "category_ids": [
+      "sushi"
+    ],
+    "proximity": 0.34,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "20:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "0d695278-ef3a-423d-9000-3341075f5a4a",
+    "name": "Golden Chinese Tavern",
+    "address": "870 Main St., City3",
+    "category_ids": [
+      "burger",
+      "pizza",
+      "sushi"
+    ],
+    "proximity": 8.55,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "15:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "36bdc58d-6a5a-4f27-b082-a430a77d307e",
+    "name": "Elegant Indian Tavern",
+    "address": "181 Main St., City3",
+    "category_ids": [
+      "burger"
+    ],
+    "proximity": 0.31,
+    "service_availability": [
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "13:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "69e48329-2957-4c07-b4ab-dec26f27c559",
+    "name": "Spicy Thai Tavern",
+    "address": "109 Main St., City3",
+    "category_ids": [
+      "pizza",
+      "sushi"
+    ],
+    "proximity": 8.44,
+    "service_availability": [
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "09:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "41ad9e32-845f-4896-a2ce-14a25e6e3308",
+    "name": "Tasty Chinese Oven",
+    "address": "702 Main St., City3",
+    "category_ids": [
+      "italian",
+      "burger",
+      "pizza"
+    ],
+    "proximity": 3.02,
+    "service_availability": [
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "16:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "16:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "14:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "2ab6f35f-0300-4c34-83d6-64ea954f0f5b",
+    "name": "Tasty Korean Kitchen",
+    "address": "629 Main St., City4",
+    "category_ids": [
+      "italian",
+      "sushi",
+      "burger"
+    ],
+    "proximity": 8.79,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "15:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "511fac5e-1080-48c2-885b-0eaa40a9919d",
+    "name": "Golden Japanese Diner",
+    "address": "805 Main St., City5",
+    "category_ids": [
+      "burger"
+    ],
+    "proximity": 8.0,
+    "service_availability": [
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "19:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "af0a0f15-f5a7-475c-a086-6896b1936b87",
+    "name": "Vibrant Mexican Tavern",
+    "address": "453 Main St., City9",
+    "category_ids": [
+      "sushi",
+      "burger",
+      "pizza"
+    ],
+    "proximity": 4.17,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "19:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "9cf28f05-7f16-4330-b4e1-13da6f1af08d",
+    "name": "Elegant Thai House",
+    "address": "583 Main St., City4",
+    "category_ids": [
+      "pizza",
+      "sushi"
+    ],
+    "proximity": 1.19,
+    "service_availability": [
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "14:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "b04454ce-48e3-4f42-871e-5e2745bc2c54",
+    "name": "Spicy Indian Cafe",
+    "address": "512 Main St., City10",
+    "category_ids": [
+      "sushi",
+      "italian"
+    ],
+    "proximity": 2.97,
+    "service_availability": [
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "23:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "8705bf35-c0f4-4e43-b064-98d47318cb12",
+    "name": "Savory Italian Kitchen",
+    "address": "591 Main St., City5",
+    "category_ids": [
+      "italian"
+    ],
+    "proximity": 3.07,
+    "service_availability": [
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "19:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "969edee7-62a3-47b8-8df2-bfa28793c2e8",
+    "name": "Spicy Mexican Oven",
+    "address": "795 Main St., City10",
+    "category_ids": [
+      "sushi",
+      "italian",
+      "pizza"
+    ],
+    "proximity": 0.17,
+    "service_availability": [
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "16:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "17:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "0e9ad638-d33b-4946-b1ee-58f658985f72",
+    "name": "Golden Italian House",
+    "address": "205 Main St., City3",
+    "category_ids": [
+      "pizza"
+    ],
+    "proximity": 3.36,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "22:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "2713a141-1212-4e42-853a-a4a4f7ec777a",
+    "name": "Spicy American Oven",
+    "address": "661 Main St., City9",
+    "category_ids": [
+      "pizza",
+      "sushi",
+      "italian"
+    ],
+    "proximity": 5.24,
+    "service_availability": [
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "09:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "11:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "ee6a380e-36ec-405e-b989-6be332644bfa",
+    "name": "Spicy Chinese House",
+    "address": "415 Main St., City1",
+    "category_ids": [
+      "sushi",
+      "burger",
+      "italian"
+    ],
+    "proximity": 8.62,
+    "service_availability": [
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "12:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "505840dc-7dc1-4f44-997e-5e0e48b4a688",
+    "name": "Delicious Mexican Tavern",
+    "address": "594 Main St., City7",
+    "category_ids": [
+      "pizza",
+      "burger"
+    ],
+    "proximity": 7.21,
+    "service_availability": [
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "19:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "25f016d7-5a1b-4676-9307-1096abf2f3ef",
+    "name": "Lush Japanese Bistro",
+    "address": "634 Main St., City1",
+    "category_ids": [
+      "pizza"
+    ],
+    "proximity": 4.56,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "16:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "b8e8488d-b6ba-4d0c-804b-403982cc2ba6",
+    "name": "Cozy Korean Oven",
+    "address": "956 Main St., City7",
+    "category_ids": [
+      "sushi"
+    ],
+    "proximity": 3.02,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "15:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "18:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "6f11b85e-ceef-418f-921c-30f43ea6dcc6",
+    "name": "Savory Italian Cafe",
+    "address": "546 Main St., City7",
+    "category_ids": [
+      "pizza",
+      "italian"
+    ],
+    "proximity": 2.68,
+    "service_availability": [
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "23:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "31ee8990-7b38-44b1-907d-cccaed25af81",
+    "name": "Elegant Mediterranean Oven",
+    "address": "502 Main St., City5",
+    "category_ids": [
+      "italian"
+    ],
+    "proximity": 0.48,
+    "service_availability": [
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "16:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "17:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "8afd9d7e-a450-4b0f-9d05-76907c6b3674",
+    "name": "Savory French Bistro",
+    "address": "639 Main St., City5",
+    "category_ids": [
+      "italian",
+      "pizza"
+    ],
+    "proximity": 5.0,
+    "service_availability": [
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "11:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "2c2a1195-5ba9-4f75-8447-04f69afaa747",
+    "name": "Savory Chinese Tavern",
+    "address": "66 Main St., City6",
+    "category_ids": [
+      "burger"
+    ],
+    "proximity": 5.07,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "18:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "b6e0f88c-60b7-4e99-94ce-fb5fa6107b83",
+    "name": "Delicious Mexican Bar",
+    "address": "974 Main St., City10",
+    "category_ids": [
+      "italian"
+    ],
+    "proximity": 7.41,
+    "service_availability": [
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "10:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "20:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "4d4c0037-042f-4204-b04c-18e00f5c3057",
+    "name": "Vibrant Mexican Bistro",
+    "address": "456 Main St., City9",
+    "category_ids": [
+      "burger",
+      "italian"
+    ],
+    "proximity": 2.74,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "18:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "4d32554f-9938-4d68-bc1b-e1151dc42538",
+    "name": "Cozy Thai Kitchen",
+    "address": "838 Main St., City6",
+    "category_ids": [
+      "italian"
+    ],
+    "proximity": 1.81,
+    "service_availability": [
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "19:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "e1ee2094-6fa2-4bc3-a6ed-c80d412a9f12",
+    "name": "Golden Chinese Grill",
+    "address": "197 Main St., City3",
+    "category_ids": [
+      "sushi",
+      "italian"
+    ],
+    "proximity": 3.02,
+    "service_availability": [
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "23:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "81c27781-792e-4c4c-a800-4ab8b260a34c",
+    "name": "Golden Chinese Cafe",
+    "address": "909 Main St., City4",
+    "category_ids": [
+      "burger",
+      "italian",
+      "sushi"
+    ],
+    "proximity": 1.89,
+    "service_availability": [
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "16:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "12:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "fb2827bb-66ec-444b-8f68-a7d4e8dfe18e",
+    "name": "Lush Mediterranean Cafe",
+    "address": "142 Main St., City3",
+    "category_ids": [
+      "burger",
+      "sushi",
+      "italian"
+    ],
+    "proximity": 5.49,
+    "service_availability": [
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "12:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "16:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "76cde1a8-aaff-4067-ad34-64c9fa650e91",
+    "name": "Elegant Mexican Bistro",
+    "address": "855 Main St., City10",
+    "category_ids": [
+      "burger",
+      "pizza",
+      "italian"
+    ],
+    "proximity": 4.47,
+    "service_availability": [
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "18:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "18:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "afc133d8-0788-4f07-af11-b0638ff933b5",
+    "name": "Tasty Thai Oven",
+    "address": "805 Main St., City2",
+    "category_ids": [
+      "italian"
+    ],
+    "proximity": 6.4,
+    "service_availability": [
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "11:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "17:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "17:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "ebbfaeec-fac7-4548-90da-87503d8cc41c",
+    "name": "Lush French Bar",
+    "address": "812 Main St., City10",
+    "category_ids": [
+      "italian",
+      "burger"
+    ],
+    "proximity": 6.95,
+    "service_availability": [
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "23:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "saturday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "13:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "21:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "c40caad9-94f1-451d-827d-c7930afa7fcb",
+    "name": "Elegant Mexican Tavern",
+    "address": "331 Main St., City6",
+    "category_ids": [
+      "italian",
+      "burger",
+      "sushi"
+    ],
+    "proximity": 8.74,
+    "service_availability": [
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "thursday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "20:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "11:00",
+            "end_time": "21:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "friday",
+        "time_periods": [
+          {
+            "start_time": "08:00",
+            "end_time": "14:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "tuesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "19:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "store_id": "9879f800-84f7-498d-bb12-34236f6e55b5",
+    "name": "Cozy Mediterranean Grill",
+    "address": "31 Main St., City2",
+    "category_ids": [
+      "burger"
+    ],
+    "proximity": 9.51,
+    "service_availability": [
+      {
+        "day_of_week": "wednesday",
+        "time_periods": [
+          {
+            "start_time": "09:00",
+            "end_time": "19:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "monday",
+        "time_periods": [
+          {
+            "start_time": "10:00",
+            "end_time": "22:00"
+          }
+        ]
+      },
+      {
+        "day_of_week": "sunday",
+        "time_periods": [
+          {
+            "start_time": "12:00",
+            "end_time": "13:00"
+          }
+        ]
+      }
+    ]
+  }
+]
