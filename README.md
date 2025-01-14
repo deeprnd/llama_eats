@@ -220,11 +220,8 @@ JSON files containing mock data for testing purposes:
 #### `tests/test_llm_service.py`
 Unit tests for the `OrderingAgent` class, ensuring correct behavior of LLM interactions.
 
-#### `tests/test_uber_eats_api.py`
-Unit tests for the `MockUberEatsAPI` class, verifying that the API endpoints function correctly.
-
-#### `tests/test_order_resource.py`
-Unit tests for the `OrderResource` class, ensuring the proper handling of order-related requests.
+#### `client`
+NextJS demo client
 
 #### `main.py`
 The entry point of the application, responsible for:
