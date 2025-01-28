@@ -5,9 +5,6 @@
 
 This is a food ordering application that allows users to interact with an AI assistant to order food from nearby restaurants. The application uses the Falcon Web Framework, Langchain, and Qdrant for natural language processing and order management. The system leverages advanced language models and embedding techniques to create an intelligent food ordering assistant that understands user preferences and makes contextually aware dish recommendations.
 
-## Demo Video
-Working demo can be viewed [here](https://youtu.be/CrdYy5BZYcQ)
-
 ## Core Components and Workflow
 
 The system employs `TheBloke/Llama-2-7B-GGUF`, a quantized `LLama-2-7B` model (GGUF format), as its primary language model for understanding user intent during conversations. This model processes user inputs while considering the evolving context of the interaction - tracking what information has been collected (delivery address, food preferences, budget) and what's still needed.
@@ -51,6 +48,8 @@ The server exposes two primary POST endpoints, each serving a distinct purpose i
 - `/order` - A separate endpoint dedicated to processing payment details and finalizing orders. This endpoint is deliberately isolated from the AI components of the system to enhance security. By keeping payment processing separate, we ensure that sensitive financial information never passes through the AI models' logging systems, significantly reducing the risk of inadvertent exposure of payment details.
 
 On the client side, the application is built using Next.js, providing a robust and responsive user interface with server-side rendering capabilities.
+
+![alt text](assets/requence_v1.png)
 
 ## Limitations
 The current implementation has several notable limitations that should be considered:
@@ -171,12 +170,6 @@ To run the test suite, execute the following command:
 python -m unittest discover tests
 ```
 This will run all the test files located in the `tests` directory.
-
-## Limitations
-
-- The application uses mock data for the 3rd party delivery provider API. To use a real API, you would need to replace the `MockEatsAPI` with an actual implementation that communicates with the Uber Eats API.
-
-- Make sure to handle sensitive information, such as payment details, securely in a production environment. The current implementation is for demonstration purposes only and does not include proper security measures.
 
 ## Project File Structure Overview
 
